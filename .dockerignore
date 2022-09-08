@@ -1,0 +1,5 @@
+**/cache
+**/*.ipynb
+**/*.zip
+**/__pycache__
+**/*.pkl

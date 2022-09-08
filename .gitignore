@@ -1,0 +1,7 @@
+**/cache
+**/*.ipynb
+**/*.zip
+**/__pycache__
+**/*.pkl
+**/*.pth
+src/yolov5/runs
