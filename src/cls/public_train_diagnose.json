@@ -1,0 +1,4437 @@
+{
+    "VAIPE_P_TRAIN_207": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_650": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_1115": [
+        "thoái hoá cột sống"
+    ],
+    "VAIPE_P_TRAIN_826": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_758": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_360": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_594": [
+        "Viêm dạ dày cấp khác"
+    ],
+    "VAIPE_P_TRAIN_1060": [
+        "Viêm mũi vận mạch và viêm mũi dị ứng"
+    ],
+    "VAIPE_P_TRAIN_282": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_914": [
+        "Viêm tai ngoài"
+    ],
+    "VAIPE_P_TRAIN_494": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_398": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_846": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_579": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_580": [
+        "Viêm phế quản cấp",
+        "Suy mòn"
+    ],
+    "VAIPE_P_TRAIN_405": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_713": [
+        "Gút (thống phong)",
+        "thoái hóa đa khớp",
+        "Các viêm khớp khác"
+    ],
+    "VAIPE_P_TRAIN_593": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_110": [
+        "Viêm khớp dạng thấp khác",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1047": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_130": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_615": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_775": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_105": [
+        "Gẫy xương vai"
+    ],
+    "VAIPE_P_TRAIN_64": [
+        "Các bệnh viêm tuyến tiền liệt"
+    ],
+    "VAIPE_P_TRAIN_201": [
+        "Rối loạn chức năng tiền đình",
+        "Rối loạn thị giác"
+    ],
+    "VAIPE_P_TRAIN_70": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_803": [
+        "Tổn thương nông ở cổ tay và bàn tay"
+    ],
+    "VAIPE_P_TRAIN_195": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_13": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_108": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_320": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_745": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_686": [
+        "Vết thương hở tại cẳng chân"
+    ],
+    "VAIPE_P_TRAIN_177": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1002": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_891": [
+        "đụng giập tại đầu gối"
+    ],
+    "VAIPE_P_TRAIN_553": [
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_404": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_821": [
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_768": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Tràn dịch khớp hay tái phát",
+        "Viêm da dị ứng tiếp xúc , nguyên nhân không đặc hiệu",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_26": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_756": [
+        "Viêm họng cấp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_971": [
+        "Viêm phế quản cấp",
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_725": [
+        "Viêm thanh quản cấp",
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_58": [
+        "Viêm gan virus mạn, không xác định"
+    ],
+    "VAIPE_P_TRAIN_800": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_837": [
+        "Viêm tá tràng"
+    ],
+    "VAIPE_P_TRAIN_602": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_976": [
+        "Bệnh lý tăng huyết áp",
+        "Tăng triglycerid máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_1129": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_215": [
+        "Các viêm da khác"
+    ],
+    "VAIPE_P_TRAIN_1016": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Tăng lipid máu hỗn hợp",
+        "Xơ vữa động mạch"
+    ],
+    "VAIPE_P_TRAIN_480": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_827": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Thoái hoá cột sống không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_576": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Bệnh tê phù"
+    ],
+    "VAIPE_P_TRAIN_152": [
+        "Đụng giập lồng ngực"
+    ],
+    "VAIPE_P_TRAIN_890": [
+        "Viêm phế quản cấp",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_1024": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_879": [
+        "Đau ngực khác",
+        "Bệnh dây thần kinh liên sườn"
+    ],
+    "VAIPE_P_TRAIN_100": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_788": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_946": [
+        "Loét dạ dày-tá tràng, vị trí không xác định"
+    ],
+    "VAIPE_P_TRAIN_990": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_390": [
+        "Tổn thương nông ở đầu"
+    ],
+    "VAIPE_P_TRAIN_464": [
+        "Viêm gan virus mạn, không xác định"
+    ],
+    "VAIPE_P_TRAIN_682": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_763": [
+        "Viêm nướu và bệnh nha chu",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_1140": [
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1171": [
+        "Nhiễm trùng đường hô hấp trên cấp ở nhiều nơi và vị trí không phân loại",
+        "Viêm phế quản mãn tính đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_375": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Loạn nhịp tim khác"
+    ],
+    "VAIPE_P_TRAIN_75": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Viêm phế quản không xác định được là cấp hay mãn tính"
+    ],
+    "VAIPE_P_TRAIN_1054": [
+        "Thoái hoá đa khớp"
+    ],
+    "VAIPE_P_TRAIN_781": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_675": [
+        "Viêm kết mạc dị ứng cấp",
+        "Loãng xương sau mãn kinh"
+    ],
+    "VAIPE_P_TRAIN_1085": [
+        "Vết thương hở tại ngón chân với tổn thương móng"
+    ],
+    "VAIPE_P_TRAIN_462": [
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_973": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_861": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_160": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Tăng acid uric máu không có biểu hiện của viêm khớp và bệnh tạo sỏi",
+        "Suy thận mãn tính"
+    ],
+    "VAIPE_P_TRAIN_336": [
+        "Viêm tai giữa không nung mủ viêm tai giữa không mủ",
+        "Nút ráy tai",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_135": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_488": [
+        "Viêm phế quản mãn tính không phân loại",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_625": [
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_627": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_692": [
+        "Khô giác mạc do thiếu vitamin A"
+    ],
+    "VAIPE_P_TRAIN_181": [
+        "Viêm phế quản cấp",
+        "Viêm mũi dị ứng, không phân loại"
+    ],
+    "VAIPE_P_TRAIN_433": [
+        "Nhiễm khuẩn khu trú khác của da và mô dưới da",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_478": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_285": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_608": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_607": [
+        "Tổn thương nông tại cổ chân và bàn chân"
+    ],
+    "VAIPE_P_TRAIN_1083": [
+        "Tràn dịch khớp hay tái phát",
+        "Các viêm khớp khác",
+        "Viêm mô bào"
+    ],
+    "VAIPE_P_TRAIN_1078": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_307": [
+        "Các viêm khớp khác"
+    ],
+    "VAIPE_P_TRAIN_23": [
+        "Tăng sản tuyến tiền liệt",
+        "Gút (thống phong)",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh gan khác",
+        "Nhiễm khuẩn hệ tiết niệu, vị trí không xác định"
+    ],
+    "VAIPE_P_TRAIN_440": [
+        "Gan xơ hóa và xơ gan"
+    ],
+    "VAIPE_P_TRAIN_1071": [
+        "Bệnh gan khác",
+        "Các bệnh viêm tuyến tiền liệt"
+    ],
+    "VAIPE_P_TRAIN_171": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Xơ vữa động mạch",
+        "Thiếu vitamin B, không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_1063": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_529": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1146": [
+        "Viêm da mủ"
+    ],
+    "VAIPE_P_TRAIN_741": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Mày đay"
+    ],
+    "VAIPE_P_TRAIN_246": [
+        "Gan (biến đổi) nhiễm mỡ, không phân loại nơi khác",
+        "Tăng triglycerid máu đơn thuần",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_870": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_843": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_984": [
+        "Áp xe da, nhọt, nhọt cụm"
+    ],
+    "VAIPE_P_TRAIN_916": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_48": [
+        "Viêm da cơ địa",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_476": [
+        "Viêm phế quản cấp",
+        "Ban xuất huyết dị ứng"
+    ],
+    "VAIPE_P_TRAIN_809": [
+        "Các viêm khớp khác"
+    ],
+    "VAIPE_P_TRAIN_1030": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_804": [
+        "Sai khớp, bong gân, căng cơ khớp và dây chằng tại tầm cẳng chân và bàn chân"
+    ],
+    "VAIPE_P_TRAIN_403": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_481": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Các bệnh phổi tắc nghẽn mãn tính khác",
+        "Sự có mặt của dụng cụ cấy ghép tạo hình động mạch vành",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_1044": [
+        "Các bệnh phổi tắc nghẽn mãn tính khác"
+    ],
+    "VAIPE_P_TRAIN_520": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_528": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_652": [
+        "Nhiễm trùng đường hô hấp trên cấp ở nhiều nơi và vị trí không phân loại",
+        "Viêm phế quản mãn tính đơn thuần và nhầy mủ"
+    ],
+    "VAIPE_P_TRAIN_592": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_176": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_995": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_957": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_89": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_277": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_338": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_951": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_332": [
+        "Viêm tai giữa không nung mủ viêm tai giữa không mủ",
+        "Nút ráy tai",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_383": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_167": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_708": [
+        "Viêm họng cấp",
+        "Rối loạn thị giác"
+    ],
+    "VAIPE_P_TRAIN_896": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_8": [
+        "Viêm amyđan cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_1": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_170": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Thiếu vitamin B, không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_998": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_191": [
+        "đụng giập tại đầu gối"
+    ],
+    "VAIPE_P_TRAIN_408": [
+        "Viêm da dị ứng tiếp xúc , nguyên nhân không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_680": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_361": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_359": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1012": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Mày đay"
+    ],
+    "VAIPE_P_TRAIN_617": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_700": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_432": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_364": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_25": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_511": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_986": [
+        "Viêm họng cấp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_340": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_907": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Viêm phế quản không xác định được là cấp hay mãn tính"
+    ],
+    "VAIPE_P_TRAIN_1027": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_7": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_354": [
+        "Bệnh HIV dẫn đến bệnh nhiễm trùng và ký sinh trùng",
+        "Bệnh viêm gan khác"
+    ],
+    "VAIPE_P_TRAIN_151": [
+        "Tổn thương nông ở đầu"
+    ],
+    "VAIPE_P_TRAIN_179": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Mày đay"
+    ],
+    "VAIPE_P_TRAIN_447": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_1108": [
+        "Viêm tai giữa nung mủ và không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_606": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_157": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_979": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1046": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_419": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_131": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_942": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác"
+    ],
+    "VAIPE_P_TRAIN_36": [
+        "Đau ngực khác",
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_780": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_112": [
+        "Các viêm khớp khác",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_107": [
+        "Bệnh gan khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Viêm họng cấp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_945": [
+        "Viêm họng cấp do các vi sinh vật khác đã được xác định"
+    ],
+    "VAIPE_P_TRAIN_795": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_59": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_137": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn giấc ngủ"
+    ],
+    "VAIPE_P_TRAIN_541": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính",
+        "Rối loạn thị giác"
+    ],
+    "VAIPE_P_TRAIN_634": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1157": [
+        "Viêm họng cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_102": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_820": [
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1150": [
+        "Viêm nướu và bệnh nha chu",
+        "Viêm miệng (loét)"
+    ],
+    "VAIPE_P_TRAIN_1111": [
+        "Kinh nguyệt nhiều, hay xuất hiện và không đều",
+        "Rong kinh lúc dậy thì",
+        "Viêm vú"
+    ],
+    "VAIPE_P_TRAIN_252": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_1089": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_279": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Viêm xoang cấp",
+        "Sâu răng",
+        "Cặn lắng [tăng tích tụ] trên răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_892": [
+        "Viêm phế quản không xác định được là cấp hay mãn tính",
+        "Đau trước tim",
+        "Bệnh tim thiếu máu cục bộ mạn"
+    ],
+    "VAIPE_P_TRAIN_681": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_761": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_903": [
+        "Áp xe da, nhọt, nhọt cụm"
+    ],
+    "VAIPE_P_TRAIN_261": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_426": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_732": [
+        "Viêm dạ dày và tá tràng",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_722": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Hẹp (van) động mạch chủ"
+    ],
+    "VAIPE_P_TRAIN_525": [
+        "Viêm phế quản cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_884": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_906": [
+        "Gẫy xương ở đầu thấp và xương quay, gãy hở"
+    ],
+    "VAIPE_P_TRAIN_689": [
+        "Viêm họng cấp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_415": [
+        "Bệnh lý tăng huyết áp",
+        "Viêm bàng quang",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1051": [
+        "Gãy xương đầu dưới xương chày, gãy kín",
+        "Vết thương hở ở cổ tay và bàn tay"
+    ],
+    "VAIPE_P_TRAIN_842": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_668": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_184": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1119": [
+        "Viêm nướu và bệnh nha chu",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_704": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_1132": [
+        "Viêm niệu đạo và hội chứng niệu đạo",
+        "Viêm bàng quang"
+    ],
+    "VAIPE_P_TRAIN_106": [
+        "Bệnh trào ngược dạ dày - thực quản"
+    ],
+    "VAIPE_P_TRAIN_956": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_46": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Cơn thiếu máu não thoáng qua khác và hội chứng liên quan"
+    ],
+    "VAIPE_P_TRAIN_237": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Thiếu thiamine"
+    ],
+    "VAIPE_P_TRAIN_321": [
+        "Viêm da mủ"
+    ],
+    "VAIPE_P_TRAIN_80": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_789": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_721": [
+        "Bệnh lý tăng huyết áp",
+        "Suy tim",
+        "Hẹp (van) động mạch chủ"
+    ],
+    "VAIPE_P_TRAIN_947": [
+        "Rối loạn thị giác",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_140": [
+        "đụng giập tại cổ chân"
+    ],
+    "VAIPE_P_TRAIN_81": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_874": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác"
+    ],
+    "VAIPE_P_TRAIN_724": [
+        "Viêm phế quản cấp",
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_1143": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_932": [
+        "Viêm họng cấp",
+        "Viêm hạch bạch huyết cấp ở mặt, đầu và cổ"
+    ],
+    "VAIPE_P_TRAIN_103": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_663": [
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TRAIN_339": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_506": [
+        "Vết thương hở tại ngón chân với tổn thương móng"
+    ],
+    "VAIPE_P_TRAIN_327": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_154": [
+        "Bệnh lý tăng huyết áp",
+        "Đau trước tim",
+        "Tăng lipid máu hỗn hợp"
+    ],
+    "VAIPE_P_TRAIN_485": [
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh gan khác",
+        "Phù không đặc hiệu",
+        "Đau bụng không xác định và đau bụng khác",
+        "Viêm tai giữa nung mủ và không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_583": [
+        "Vết thương hở các ngón tay không tổn thương móng"
+    ],
+    "VAIPE_P_TRAIN_503": [
+        "Bệnh lý tăng huyết áp",
+        "Suy tim",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_962": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_661": [
+        "Tăng sản tuyến tiền liệt",
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TRAIN_863": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_289": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_774": [
+        "Bệnh lý tăng huyết áp",
+        "Tăng acid uric máu không có biểu hiện của viêm khớp và bệnh tạo sỏi"
+    ],
+    "VAIPE_P_TRAIN_702": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_747": [
+        "Áp xe da, nhọt, nhọt cụm"
+    ],
+    "VAIPE_P_TRAIN_424": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1170": [
+        "Viêm tai ngoài"
+    ],
+    "VAIPE_P_TRAIN_561": [
+        "Viêm họng - thanh quản cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_646": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_524": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_936": [
+        "Bệnh lý tăng huyết áp",
+        "Đau trước tim",
+        "Hở van động mạch chủ do thấp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_425": [
+        "Sỏi thận và niệu quản",
+        "Viêm niệu đạo và hội chứng niệu đạo",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_569": [
+        "Vết thương hở tại cẳng chân",
+        "Bệnh viêm gan khác"
+    ],
+    "VAIPE_P_TRAIN_769": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_499": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn"
+    ],
+    "VAIPE_P_TRAIN_1069": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Tăng lipid máu hỗn hợp"
+    ],
+    "VAIPE_P_TRAIN_665": [
+        "Viêm dạ dày-ruột và viêm đại tràng khác không nhiễm trùng khác"
+    ],
+    "VAIPE_P_TRAIN_546": [
+        "thoái hoá cột sống",
+        "Bệnh đa dây thần kinh do rượu"
+    ],
+    "VAIPE_P_TRAIN_182": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_917": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_196": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_115": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_437": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_30": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_808": [
+        "Sai khớp, bong gân và giãn khớp và dây chằng của vòng ngực",
+        "Viêm mô bào"
+    ],
+    "VAIPE_P_TRAIN_764": [
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Viêm dạ dày và tá tràng",
+        "Bệnh viêm gan khác"
+    ],
+    "VAIPE_P_TRAIN_91": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1155": [
+        "Viêm họng cấp",
+        "Cảm cúm do virus cúm được định danh khác",
+        "Mày đay dị ứng"
+    ],
+    "VAIPE_P_TRAIN_497": [
+        "Rối loạn chức năng tiền đình",
+        "Bệnh đa dây thần kinh do rượu"
+    ],
+    "VAIPE_P_TRAIN_655": [
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_966": [
+        "Tăng sản tuyến tiền liệt",
+        "Nút ráy tai",
+        "Viêm tai giữa nung mủ và không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_623": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1109": [
+        "Các viêm khớp khác",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_609": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1112": [
+        "Nhiễm khuẩn sau đẻ",
+        "Suy thận cấp tính sau đẻ",
+        "Viêm vú",
+        "Viêm tuyến lệ"
+    ],
+    "VAIPE_P_TRAIN_886": [
+        "Bệnh lý tăng huyết áp",
+        "Tăng triglycerid máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_229": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Cơn thiếu máu não thoáng qua khác và hội chứng liên quan"
+    ],
+    "VAIPE_P_TRAIN_326": [
+        "Các viêm khớp khác"
+    ],
+    "VAIPE_P_TRAIN_458": [
+        "Suy tim",
+        "Bệnh lý tăng huyết áp",
+        "Gút (thống phong)",
+        "Suy thận mãn tính",
+        "Ngoại tâm thu nhĩ",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_482": [
+        "Gẫy xương vai",
+        "Ban xuất huyết và các tình trạng xuất huyết khác"
+    ],
+    "VAIPE_P_TRAIN_817": [
+        "Viêm tai giữa tiết nhày mạn"
+    ],
+    "VAIPE_P_TRAIN_18": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Đục thủy tinh thể người già"
+    ],
+    "VAIPE_P_TRAIN_869": [
+        "Viêm da dầu khác"
+    ],
+    "VAIPE_P_TRAIN_132": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_726": [
+        "Viêm phế quản cấp",
+        "Cúm, virus không được định danh",
+        "Ngứa"
+    ],
+    "VAIPE_P_TRAIN_498": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_420": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_192": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng, không phân loại"
+    ],
+    "VAIPE_P_TRAIN_895": [
+        "Viêm phế quản cấp",
+        "Đau bụng và vùng chậu"
+    ],
+    "VAIPE_P_TRAIN_495": [
+        "Viêm phế quản cấp",
+        "Dị ứng chưa xác định"
+    ],
+    "VAIPE_P_TRAIN_953": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_363": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_234": [
+        "Viêm phế quản cấp, không phân loại"
+    ],
+    "VAIPE_P_TRAIN_1075": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_723": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Viêm xoang hàm mãn tính"
+    ],
+    "VAIPE_P_TRAIN_391": [
+        "đụng giập tại đầu gối"
+    ],
+    "VAIPE_P_TRAIN_836": [
+        "Tổn thương nông ở cẳng tay"
+    ],
+    "VAIPE_P_TRAIN_42": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_801": [
+        "Tổn thương nông tại háng và đùi"
+    ],
+    "VAIPE_P_TRAIN_706": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_190": [
+        "Bệnh dây thần kinh liên sườn",
+        "Bệnh viêm gan khác",
+        "Thiếu các vitamin nhóm B khác",
+        "Suy thất trái",
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Gan xơ hóa và xơ gan"
+    ],
+    "VAIPE_P_TRAIN_799": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_199": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1104": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Sâu răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_838": [
+        "Viêm tá tràng"
+    ],
+    "VAIPE_P_TRAIN_530": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_216": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng"
+    ],
+    "VAIPE_P_TRAIN_33": [
+        "Loạn nhịp tim khác",
+        "Bệnh lý tăng huyết áp",
+        "Các rối loạn khác của tuyến giáp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_249": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_460": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_1039": [
+        "Bệnh lý tăng huyết áp",
+        "Tràn dịch khớp"
+    ],
+    "VAIPE_P_TRAIN_860": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_960": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_123": [
+        "Vết thương hở ở cổ tay và bàn tay"
+    ],
+    "VAIPE_P_TRAIN_29": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_656": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Tăng cholesterol máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_770": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_639": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_1098": [
+        "Các viêm khớp khác"
+    ],
+    "VAIPE_P_TRAIN_1009": [
+        "Nhiễm khuẩn khu trú khác của da và mô dưới da"
+    ],
+    "VAIPE_P_TRAIN_125": [
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_202": [
+        "thoái hóa khớp cổ - bàn ngón tay cái"
+    ],
+    "VAIPE_P_TRAIN_552": [
+        "Viêm phế quản mãn tính không phân loại",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_93": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_849": [
+        "Bệnh tủy và mô quanh chân răng"
+    ],
+    "VAIPE_P_TRAIN_468": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_172": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_62": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_674": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_56": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_784": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_150": [
+        "đụng giập của lưng dưới và chân, hông"
+    ],
+    "VAIPE_P_TRAIN_427": [
+        "thoái hóa cột sống",
+        "Các viêm khớp khác",
+        "Bệnh lý tăng huyết áp",
+        "Bệnh trào ngược dạ dày - thực quản"
+    ],
+    "VAIPE_P_TRAIN_1025": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Đụng dập lồng ngực, không xác định vùng",
+        "Viêm phế quản mãn tính không phân loại",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_1125": [
+        "Tình trạng viêm của xương hàm"
+    ],
+    "VAIPE_P_TRAIN_854": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_161": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_1110": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_200": [
+        "Rối loạn chức năng tiền đình",
+        "Thiếu vitamin A, không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_9": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_67": [
+        "Bệnh HIV dẫn đến bệnh nhiễm trùng và ký sinh trùng",
+        "Viêm gan mãn, không phân loại nơi khác"
+    ],
+    "VAIPE_P_TRAIN_651": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_217": [
+        "Viêm nướu và bệnh nha chu",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_20": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_581": [
+        "Rối loạn chuyển hoá đồng"
+    ],
+    "VAIPE_P_TRAIN_43": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_1061": [
+        "Viêm bàng quang"
+    ],
+    "VAIPE_P_TRAIN_991": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_729": [
+        "Sai khớp, bong gân, căng cơ khớp và dây chằng tại tầm cẳng chân và bàn chân"
+    ],
+    "VAIPE_P_TRAIN_845": [
+        "Đau bụng và vùng chậu",
+        "Rối loạn chức năng gan trong bệnh phân loại nơi khác"
+    ],
+    "VAIPE_P_TRAIN_633": [
+        "đụng giập tại đầu gối"
+    ],
+    "VAIPE_P_TRAIN_278": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_911": [
+        "Viêm mô bào",
+        "Viêm xoang cấp",
+        "Viêm da dị ứng tiếp xúc , nguyên nhân không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_362": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1001": [
+        "Viêm nướu và bệnh nha chu",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1015": [
+        "thoái hoá cột sống"
+    ],
+    "VAIPE_P_TRAIN_1062": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_851": [
+        "Thoái hoá khớp gối sau chấn thương khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_474": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_887": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_948": [
+        "Các viêm khớp khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_244": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_128": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm da cơ địa",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_612": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_961": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_531": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_759": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Đau ngực khác",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_142": [
+        "Viêm họng cấp",
+        "Dị ứng chưa xác định"
+    ],
+    "VAIPE_P_TRAIN_882": [
+        "thoái hóa khớp gối",
+        "Gai Xương gót",
+        "Viêm mũi họng cấp [cảm thường]",
+        "Các biện pháp dự phòng đặc hiệu khác",
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_138": [
+        "Viêm xoang cấp, không xác định"
+    ],
+    "VAIPE_P_TRAIN_779": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính",
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_114": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_718": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1007": [
+        "Áp xe da, nhọt, nhọt cụm"
+    ],
+    "VAIPE_P_TRAIN_1074": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_241": [
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_989": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_251": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_266": [
+        "Các viêm khớp khác",
+        "Đau trước tim",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_931": [
+        "Viêm dạ dày và tá tràng",
+        "Đau bụng không xác định và đau bụng khác",
+        "Bệnh gan khác",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_453": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1126": [
+        "Viêm họng - thanh quản cấp"
+    ],
+    "VAIPE_P_TRAIN_232": [
+        "Vitamin, không xếp loại nơi khác",
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_534": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_572": [
+        "Rối loạn chức năng tiền đình",
+        "Bệnh suy nhược thần kinh"
+    ],
+    "VAIPE_P_TRAIN_295": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_904": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_281": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Sâu răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_695": [
+        "Chấn động",
+        "Gẫy DENS khác",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_47": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_197": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_526": [
+        "Bệnh lý tăng huyết áp",
+        "Viêm phế quản mãn tính không phân loại",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_24": [
+        "Tăng sản tuyến tiền liệt",
+        "Nhiễm khuẩn hệ tiết niệu, vị trí không xác định"
+    ],
+    "VAIPE_P_TRAIN_577": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Đau trước tim",
+        "Hở van ba lá",
+        "Bệnh dây thần kinh liên sườn"
+    ],
+    "VAIPE_P_TRAIN_79": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1091": [
+        "Rối loạn chức năng tiền đình",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_61": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_309": [
+        "Viêm họng cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_111": [
+        "Viêm khớp dạng thấp khác",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_245": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_52": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_213": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_1014": [
+        "Sai khớp, bong gân và giãn khớp và dây chằng của vòng ngực"
+    ],
+    "VAIPE_P_TRAIN_487": [
+        "Viêm phế quản mãn tính không phân loại",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_866": [
+        "Viêm tai giữa nung mủ và không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_505": [
+        "Các viêm khớp khác",
+        "Viêm mô bào",
+        "Thiếu vitamin B, không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_31": [
+        "Sai khớp, bong gân và giãn khớp và dây chằng của vòng ngực",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Rối loạn giấc ngủ"
+    ],
+    "VAIPE_P_TRAIN_292": [
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh gan khác",
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TRAIN_6": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Đau ngực khi thở",
+        "Loạn nhịp tim khác",
+        "Tăng triglycerid máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_539": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Suy thận mãn tính",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1158": [
+        "Viêm họng cấp",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_166": [
+        "Đau cột sống thắt lưng",
+        "Thiếu vitamin E",
+        "Sốc không đặc hiệu",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_350": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_792": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_211": [
+        "Đau bụng không xác định và đau bụng khác",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_696": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_141": [
+        "Các viêm khớp khác",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_145": [
+        "Bệnh gan khác",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_117": [
+        "Sẩn ngứa khác",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_928": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Đau đầu"
+    ],
+    "VAIPE_P_TRAIN_1169": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_913": [
+        "Viêm họng cấp",
+        "Rối loạn chức năng tiền đình",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_27": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_328": [
+        "Bệnh lý tăng huyết áp",
+        "Viêm khớp dạng thấp khác"
+    ],
+    "VAIPE_P_TRAIN_540": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn giấc ngủ",
+        "Bệnh đĩa đệm đốt sống cổ",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_126": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_267": [
+        "Viêm họng cấp",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_389": [
+        "đụng giập phần khác và chưa xác định tại bàn chân"
+    ],
+    "VAIPE_P_TRAIN_367": [
+        "Tổn thương nông ở cổ tay và bàn tay",
+        "Viêm mô bào",
+        "Thiếu vitamin B, không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_653": [
+        "Đau bụng không xác định và đau bụng khác",
+        "Viêm dạ dày-ruột và viêm đại tràng khác không nhiễm trùng khác"
+    ],
+    "VAIPE_P_TRAIN_315": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_376": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính",
+        "Sẩn ngứa khác"
+    ],
+    "VAIPE_P_TRAIN_1066": [
+        "Bệnh lý tăng huyết áp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_331": [
+        "thoái hóa khớp khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_667": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_824": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn"
+    ],
+    "VAIPE_P_TRAIN_1135": [
+        "Viêm họng cấp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_1034": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Loạn nhịp tim khác"
+    ],
+    "VAIPE_P_TRAIN_477": [
+        "Mất trí trong bệnh Alzheimer (G30.-†)"
+    ],
+    "VAIPE_P_TRAIN_690": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_392": [
+        "Gãy xương ở cẳng tay",
+        "Gãy xương bàn chân, trừ cổ chân"
+    ],
+    "VAIPE_P_TRAIN_1130": [
+        "Vết thương hở tại cổ chân và bàn chân"
+    ],
+    "VAIPE_P_TRAIN_834": [
+        "Bệnh lý tăng huyết áp",
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_649": [
+        "Sai khớp, bong gân, căng cơ khớp và dây chằng tại tầm cẳng chân và bàn chân",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_603": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_412": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_987": [
+        "Các viêm khớp khác"
+    ],
+    "VAIPE_P_TRAIN_888": [
+        "Tiêu chảy rối loạn chức năng"
+    ],
+    "VAIPE_P_TRAIN_767": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_304": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_459": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_619": [
+        "Nút ráy tai",
+        "Viêm tai giữa nung mủ và không đặc hiệu",
+        "Viêm thanh quản và viêm thanh khí quản mãn tính",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_407": [
+        "Bệnh trào ngược dạ dày - thực quản"
+    ],
+    "VAIPE_P_TRAIN_598": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_109": [
+        "Viêm đa khớp không đặc hiệu",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hóa sphingolipid và rối loạn tích luỹ lipid",
+        "Cơn đau thắt ngực",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1162": [
+        "Viêm họng cấp",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_317": [
+        "Viêm phế quản không xác định được là cấp hay mạn tính"
+    ],
+    "VAIPE_P_TRAIN_641": [
+        "Viêm dạ dày cấp khác"
+    ],
+    "VAIPE_P_TRAIN_719": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_823": [
+        "Bệnh lý tăng huyết áp",
+        "Xơ vữa động mạch",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_0": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm da mủ",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_314": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_348": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_54": [
+        "Đau ngực khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Đau bụng và vùng chậu",
+        "Viêm họng - thanh quản cấp"
+    ],
+    "VAIPE_P_TRAIN_852": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_538": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_777": [
+        "Viêm hạch bạch huyết cấp ở mặt, đầu và cổ"
+    ],
+    "VAIPE_P_TRAIN_794": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_618": [
+        "Viêm họng cấp",
+        "Viêm miệng và tổn thương liên quan"
+    ],
+    "VAIPE_P_TRAIN_1123": [
+        "Viêm phế quản cấp do virus hợp bào hô hấp"
+    ],
+    "VAIPE_P_TRAIN_832": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_739": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_899": [
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_997": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_772": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_239": [
+        "Cảm cúm do virus cúm được định danh khác",
+        "Suy thận mạn"
+    ],
+    "VAIPE_P_TRAIN_671": [
+        "Viêm họng cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1058": [
+        "thoái hóa đa khớp"
+    ],
+    "VAIPE_P_TRAIN_139": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_206": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_101": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_638": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_735": [
+        "Viêm dạ dày và tá tràng",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_421": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_265": [
+        "Sỏi thận và niệu quản",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Suy thận mãn tính",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_859": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_894": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_319": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_385": [
+        "Bệnh lý tăng huyết áp",
+        "Xơ vữa động mạch",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1084": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_749": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_872": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_146": [
+        "Viêm họng cấp",
+        "Bệnh trào ngược dạ dày - thực quản"
+    ],
+    "VAIPE_P_TRAIN_1053": [
+        "Sai khớp, bong gân, căng cơ khớp và dây chằng tại tầm cẳng chân và bàn chân"
+    ],
+    "VAIPE_P_TRAIN_701": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_829": [
+        "Đau khớp"
+    ],
+    "VAIPE_P_TRAIN_533": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_548": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_1040": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh đĩa đệm đốt sống cổ"
+    ],
+    "VAIPE_P_TRAIN_235": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn thị giác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_613": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1167": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_746": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1145": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_254": [
+        "Sỏi thận và niệu quản",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1159": [
+        "Nhiễm khuẩn hệ tiết niệu, vị trí không xác định",
+        "Tăng sản tuyến tiền liệt"
+    ],
+    "VAIPE_P_TRAIN_1035": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_322": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_740": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Khô giác mạc do thiếu vitamin A"
+    ],
+    "VAIPE_P_TRAIN_785": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_253": [
+        "Bệnh tủy và mô quanh chân răng"
+    ],
+    "VAIPE_P_TRAIN_688": [
+        "Viêm xoang cấp"
+    ],
+    "VAIPE_P_TRAIN_456": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_865": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_263": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_3": [
+        "Bệnh lý tăng huyết áp",
+        "thoái hóa cột sống"
+    ],
+    "VAIPE_P_TRAIN_912": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_806": [
+        "Viêm bàng quang",
+        "Viêm mô bào",
+        "Viêm da dị ứng tiếp xúc , nguyên nhân không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_980": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_647": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_14": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_17": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_429": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_242": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_883": [
+        "Bệnh lý tăng huyết áp",
+        "Đau bụng không xác định và đau bụng khác"
+    ],
+    "VAIPE_P_TRAIN_571": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_778": [
+        "Viêm nướu và bệnh nha chu",
+        "Viêm hạch bạch huyết cấp tính"
+    ],
+    "VAIPE_P_TRAIN_994": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_923": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Viêm gan virus mạn, không xác định",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_727": [
+        "Đau trước tim",
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Viêm dạ dày và tá tràng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_562": [
+        "Viêm nướu và bệnh nha chu",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_819": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Đau đầu"
+    ],
+    "VAIPE_P_TRAIN_566": [
+        "Sai khớp, bong gân và giãn khớp và dây chằng của vòng ngực",
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_578": [
+        "Rối loạn chức năng tiền đình",
+        "Rối loạn thị giác",
+        "Đau đầu"
+    ],
+    "VAIPE_P_TRAIN_1045": [
+        "Các bệnh phổi tắc nghẽn mãn tính khác",
+        "Đau trước tim"
+    ],
+    "VAIPE_P_TRAIN_858": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_631": [
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_1090": [
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_1094": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_274": [
+        "Đau khớp",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_941": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính"
+    ],
+    "VAIPE_P_TRAIN_797": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_69": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_535": [
+        "Bệnh lý tăng huyết áp",
+        "Đau bụng không xác định và đau bụng khác",
+        "Tăng triglycerid máu đơn thuần",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_74": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_205": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_124": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TRAIN_86": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1096": [
+        "Viêm dạ dày-ruột và viêm đại tràng khác không nhiễm trùng khác",
+        "Táo bón"
+    ],
+    "VAIPE_P_TRAIN_570": [
+        "Viêm phế quản cấp",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_1077": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1144": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính"
+    ],
+    "VAIPE_P_TRAIN_310": [
+        "Sai khớp, bong gân và căng cơ khớp và dây chằng đầu gối",
+        "Viêm mô bào"
+    ],
+    "VAIPE_P_TRAIN_1142": [
+        "Viêm dạ dày tá tràng, không đặc hiệu",
+        "Viêm phế quản cấp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_491": [
+        "Tổn thương vùi lấp của mặt",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1086": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_575": [
+        "Nhiễm trùng đường hô hấp trên cấp ở nhiều nơi và vị trí không phân loại"
+    ],
+    "VAIPE_P_TRAIN_444": [
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_699": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_165": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính"
+    ],
+    "VAIPE_P_TRAIN_643": [
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_479": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_880": [
+        "Thoái hoá đa khớp"
+    ],
+    "VAIPE_P_TRAIN_1048": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_999": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_878": [
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_965": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_386": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_988": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính"
+    ],
+    "VAIPE_P_TRAIN_377": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_502": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Tăng acid uric máu không có biểu hiện của viêm khớp và bệnh tạo sỏi"
+    ],
+    "VAIPE_P_TRAIN_563": [
+        "Viêm da dầu khác"
+    ],
+    "VAIPE_P_TRAIN_636": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_430": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_787": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_428": [
+        "Viêm phế quản cấp",
+        "Phù và protein niệu thai nghén"
+    ],
+    "VAIPE_P_TRAIN_955": [
+        "Viêm khớp dạng thấp khác"
+    ],
+    "VAIPE_P_TRAIN_492": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Thiếu vitamin B, không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_673": [
+        "Rối loạn chức năng tiền đình",
+        "Đau trước tim",
+        "Sỏi thận và niệu quản",
+        "Đau cột sống thắt lưng"
+    ],
+    "VAIPE_P_TRAIN_98": [
+        "Gẫy xương phần khác của cẳng tay"
+    ],
+    "VAIPE_P_TRAIN_318": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1097": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1006": [
+        "Viêm họng cấp",
+        "Đau bụng không xác định và đau bụng khác",
+        "Bệnh dây thần kinh liên sườn"
+    ],
+    "VAIPE_P_TRAIN_982": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_595": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_637": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1093": [
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Đau bụng không xác định và đau bụng khác",
+        "Viêm đại tràng không xác định",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Táo bón"
+    ],
+    "VAIPE_P_TRAIN_168": [
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_148": [
+        "đụng giập khác và phần chưa xác định khác của cẳng tay",
+        "Gãy xương ở cẳng tay"
+    ],
+    "VAIPE_P_TRAIN_329": [
+        "Viêm kết mạc do lậu cầu",
+        "Rối loạn thị giác"
+    ],
+    "VAIPE_P_TRAIN_374": [
+        "Viêm phế quản cấp",
+        "Viêm mũi dị ứng khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_188": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_92": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_231": [
+        "Loạn nhịp tim khác"
+    ],
+    "VAIPE_P_TRAIN_356": [
+        "Bệnh tê phù",
+        "Thoái hoá cột sống không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_697": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_38": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_352": [
+        "Tổn thương nông tại cẳng chân chưa xác định"
+    ],
+    "VAIPE_P_TRAIN_147": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Bệnh dây thần kinh liên sườn"
+    ],
+    "VAIPE_P_TRAIN_669": [
+        "Nhiễm trùng đường hô hấp trên cấp ở nhiều nơi và vị trí không phân loại"
+    ],
+    "VAIPE_P_TRAIN_346": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_560": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Thoái hoá đa khớp",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_752": [
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_255": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_4": [
+        "Hội chứng ruột kích thích, có tiêu chảy"
+    ],
+    "VAIPE_P_TRAIN_353": [
+        "Tăng huyết áp thứ phát do rối loạn nội tiết"
+    ],
+    "VAIPE_P_TRAIN_1106": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_311": [
+        "Sai khớp, bong gân và căng cơ của khớp và dây chằng tầm cổ tay và bàn tay",
+        "Viêm mô bào"
+    ],
+    "VAIPE_P_TRAIN_707": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_504": [
+        "Viêm họng cấp",
+        "Bệnh trào ngược dạ dày - thực quản"
+    ],
+    "VAIPE_P_TRAIN_605": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_122": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_489": [
+        "Viêm phế quản không xác định được là cấp hay mãn tính",
+        "Đau trước tim"
+    ],
+    "VAIPE_P_TRAIN_224": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_924": [
+        "Viêm bàng quang"
+    ],
+    "VAIPE_P_TRAIN_341": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_334": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1049": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_344": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_227": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Cơn thiếu máu não thoáng qua khác và hội chứng liên quan"
+    ],
+    "VAIPE_P_TRAIN_983": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_742": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Mày đay"
+    ],
+    "VAIPE_P_TRAIN_1000": [
+        "Viêm miệng (loét)"
+    ],
+    "VAIPE_P_TRAIN_393": [
+        "đụng giập phần khác và chưa xác định tại bàn chân",
+        "Gãy xương bàn chân, trừ cổ chân"
+    ],
+    "VAIPE_P_TRAIN_469": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_283": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Sâu răng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_596": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_944": [
+        "Viêm xoang mãn tính"
+    ],
+    "VAIPE_P_TRAIN_1082": [
+        "Viêm mô bào",
+        "Viêm da dị ứng tiếp xúc , nguyên nhân không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_173": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_850": [
+        "thoái hóa đa khớp"
+    ],
+    "VAIPE_P_TRAIN_303": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_664": [
+        "Viêm loét hồi-đại tràng(mãn)"
+    ],
+    "VAIPE_P_TRAIN_551": [
+        "đụng giập khác và phần chưa xác định khác của cẳng tay",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_178": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_522": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_952": [
+        "Bệnh lý tăng huyết áp",
+        "Sỏi thận và niệu quản"
+    ],
+    "VAIPE_P_TRAIN_214": [
+        "Đau bụng không xác định và đau bụng khác",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_53": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_922": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_418": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_84": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_370": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_677": [
+        "Viêm họng cấp",
+        "Dị ứng chưa xác định"
+    ],
+    "VAIPE_P_TRAIN_519": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_238": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Thiếu thiamine"
+    ],
+    "VAIPE_P_TRAIN_1037": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_601": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_290": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Sâu răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_815": [
+        "Nhiễm khuẩn khu trú khác của da và mô dưới da"
+    ],
+    "VAIPE_P_TRAIN_1020": [
+        "Viêm họng cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_16": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "thoái hóa khớp gối"
+    ],
+    "VAIPE_P_TRAIN_900": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Đau bụng không xác định và đau bụng khác",
+        "Bệnh lý tăng huyết áp",
+        "Mày đay"
+    ],
+    "VAIPE_P_TRAIN_877": [
+        "Đau đầu"
+    ],
+    "VAIPE_P_TRAIN_513": [
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_185": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_930": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Đau ngực khi thở",
+        "Tăng triglycerid máu đơn thuần",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_402": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1151": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TRAIN_66": [
+        "Bệnh viêm gan khác",
+        "Bệnh HIV dẫn đến bệnh nhiễm trùng và ký sinh trùng"
+    ],
+    "VAIPE_P_TRAIN_588": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1036": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác"
+    ],
+    "VAIPE_P_TRAIN_119": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_212": [
+        "Đau bụng không xác định và đau bụng khác",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_599": [
+        "Gan xơ hóa và xơ gan",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_621": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_388": [
+        "Đụng giập lồng ngực"
+    ],
+    "VAIPE_P_TRAIN_885": [
+        "Bệnh lý tăng huyết áp",
+        "Tăng triglycerid máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_486": [
+        "áp xe quanh chân răng không có ổ"
+    ],
+    "VAIPE_P_TRAIN_475": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_127": [
+        "Bệnh tủy và mô quanh chân răng",
+        "Các viêm khác của âm đạo và âm hộ"
+    ],
+    "VAIPE_P_TRAIN_1070": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_455": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_748": [
+        "Viêm hạch bạch huyết không đặc hiệu",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_262": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_380": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_1168": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_679": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_720": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Loạn nhịp tim khác"
+    ],
+    "VAIPE_P_TRAIN_901": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_565": [
+        "Viêm phế quản mãn tính không phân loại",
+        "Bệnh trào ngược dạ dày - thực quản"
+    ],
+    "VAIPE_P_TRAIN_284": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Sâu răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1127": [
+        "Viêm họng cấp",
+        "Ngứa"
+    ],
+    "VAIPE_P_TRAIN_640": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Tăng sản tuyến tiền liệt"
+    ],
+    "VAIPE_P_TRAIN_516": [
+        "Viêm tai ngoài ác tính"
+    ],
+    "VAIPE_P_TRAIN_1133": [
+        "Tổn thương nông ở đầu"
+    ],
+    "VAIPE_P_TRAIN_927": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1107": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_731": [
+        "Bệnh lý tăng huyết áp",
+        "Xơ vữa động mạch",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_582": [
+        "Rối loạn chức năng tiền đình",
+        "Đau đầu"
+    ],
+    "VAIPE_P_TRAIN_1008": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_1057": [
+        "Viêm họng cấp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_683": [
+        "Viêm khớp dạng thấp khác",
+        "Thiếu vitamin B, không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_814": [
+        "Gãy xương cẳng chân, bao gồm cổ chân",
+        "Viêm mô bào"
+    ],
+    "VAIPE_P_TRAIN_954": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_589": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_87": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1056": [
+        "Viêm họng cấp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_1021": [
+        "Đau vùng cổ gáy",
+        "Cơn thiếu máu não thoáng qua khác và hội chứng liên quan"
+    ],
+    "VAIPE_P_TRAIN_473": [
+        "Viêm lưỡi",
+        "Viêm họng cấp",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_483": [
+        "Viêm dạ dày và tá tràng",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_423": [
+        "Bệnh lý tăng huyết áp",
+        "Các bệnh phổi tắc nghẽn mãn tính khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_992": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_521": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_63": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_22": [
+        "Tăng sản tuyến tiền liệt",
+        "Nhiễm khuẩn hệ tiết niệu, vị trí không xác định"
+    ],
+    "VAIPE_P_TRAIN_630": [
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_790": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_169": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Xơ vữa động mạch",
+        "Rối loạn giấc ngủ",
+        "Thiếu vitamin B, không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_981": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_501": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_611": [
+        "Viêm khớp phản ứng",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_193": [
+        "Viêm amyđan cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_567": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_156": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_555": [
+        "Đau lưng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_632": [
+        "Gút (thống phong)",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Đau khớp"
+    ],
+    "VAIPE_P_TRAIN_291": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_434": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_728": [
+        "Viêm bàng quang"
+    ],
+    "VAIPE_P_TRAIN_864": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_610": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1067": [
+        "Đau ngực khác",
+        "Viêm phế quản cấp",
+        "Đau bụng không xác định và đau bụng khác"
+    ],
+    "VAIPE_P_TRAIN_1059": [
+        "Viêm phế quản mãn tính không phân loại",
+        "Đau trước tim"
+    ],
+    "VAIPE_P_TRAIN_585": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_65": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Cơn đau thắt ngực",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_465": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_614": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_507": [
+        "Các bệnh tim do phổi khác",
+        "Viêm gan virus mạn, không xác định"
+    ],
+    "VAIPE_P_TRAIN_365": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_996": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_288": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_400": [
+        "Viêm xoang cấp"
+    ],
+    "VAIPE_P_TRAIN_926": [
+        "Viêm kết mạc cấp khác"
+    ],
+    "VAIPE_P_TRAIN_1072": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_751": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Tăng lipid máu hỗn hợp",
+        "Xơ vữa động mạch"
+    ],
+    "VAIPE_P_TRAIN_1164": [
+        "Cúm, virus không được định danh",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_856": [
+        "Các viêm khớp khác"
+    ],
+    "VAIPE_P_TRAIN_45": [
+        "Gãy xương vai",
+        "Ban xuất huyết và các tình trạng xuất huyết khác"
+    ],
+    "VAIPE_P_TRAIN_406": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_737": [
+        "Nhiễm khuẩn khu trú khác của da và mô dưới da",
+        "Viêm hạch bạch huyết không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_765": [
+        "Viêm dạ dày và tá tràng",
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Bệnh viêm gan khác"
+    ],
+    "VAIPE_P_TRAIN_55": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_342": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_325": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_19": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_436": [
+        "Tổn thương nông tại cẳng chân",
+        "Đau bụng không xác định và đau bụng khác",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_384": [
+        "Viêm phế quản cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_591": [
+        "Viêm tai giữa không nung mủ cấp khác"
+    ],
+    "VAIPE_P_TRAIN_472": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_258": [
+        "Dãn tĩnh mạch chi dưới",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_34": [
+        "Viêm xoang cấp"
+    ],
+    "VAIPE_P_TRAIN_657": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Tăng triglycerid máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_493": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_554": [
+        "Đau bụng không xác định và đau bụng khác",
+        "Đau trước tim",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1013": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_451": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính"
+    ],
+    "VAIPE_P_TRAIN_670": [
+        "Nhiễm trùng đường hô hấp trên cấp ở nhiều nơi và vị trí không phân loại",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_351": [
+        "Viêm kết mạc",
+        "Các viêm khớp khác",
+        "Rối loạn thị giác"
+    ],
+    "VAIPE_P_TRAIN_1092": [
+        "Viêm phế quản cấp",
+        "U lành tuyến cận giáp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_368": [
+        "Viêm họng cấp",
+        "Ngứa"
+    ],
+    "VAIPE_P_TRAIN_387": [
+        "Gãy xương ở cẳng tay"
+    ],
+    "VAIPE_P_TRAIN_297": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_648": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Đau bụng không xác định và đau bụng khác",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_958": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1028": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_496": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_273": [
+        "Thoái hoá khớp gối"
+    ],
+    "VAIPE_P_TRAIN_902": [
+        "Tổn thương nông tại cẳng chân"
+    ],
+    "VAIPE_P_TRAIN_659": [
+        "Viêm nha chu cấp"
+    ],
+    "VAIPE_P_TRAIN_703": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1042": [
+        "Viêm mô tế bào và áp xe của miệng"
+    ],
+    "VAIPE_P_TRAIN_550": [
+        "thoái hóa khớp gối",
+        "Các viêm khớp khác"
+    ],
+    "VAIPE_P_TRAIN_750": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Tăng lipid máu hỗn hợp",
+        "Xơ vữa động mạch"
+    ],
+    "VAIPE_P_TRAIN_1022": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1131": [
+        "Đau bụng không xác định và đau bụng khác",
+        "Viêm bàng quang",
+        "Tăng sản tuyến tiền liệt"
+    ],
+    "VAIPE_P_TRAIN_523": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_684": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính"
+    ],
+    "VAIPE_P_TRAIN_21": [
+        "Tăng sản tuyến tiền liệt",
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TRAIN_256": [
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_940": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_15": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1038": [
+        "Các viêm khớp khác",
+        "Thiếu thiamine"
+    ],
+    "VAIPE_P_TRAIN_35": [
+        "Viêm họng cấp",
+        "Tình trạng viêm của xương hàm",
+        "U lành tuyến cận giáp"
+    ],
+    "VAIPE_P_TRAIN_559": [
+        "Sai khớp, bong gân, căng cơ khớp và dây chằng tại tầm cẳng chân và bàn chân"
+    ],
+    "VAIPE_P_TRAIN_417": [
+        "Bệnh lý tăng huyết áp",
+        "Xơ vữa động mạch",
+        "Tăng acid uric máu không có biểu hiện của viêm khớp và bệnh tạo sỏi",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_299": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_467": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_411": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Tăng triglycerid máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_972": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_1160": [
+        "Sai khớp, bong gân và căng cơ của khớp và dây chằng tầm cổ tay và bàn tay"
+    ],
+    "VAIPE_P_TRAIN_1152": [
+        "Viêm họng cấp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_597": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_257": [
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_222": [
+        "Viêm phế quản cấp",
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_276": [
+        "thoái hoá cột sống"
+    ],
+    "VAIPE_P_TRAIN_1121": [
+        "Viêm bàng quang",
+        "Sỏi thận và niệu quản"
+    ],
+    "VAIPE_P_TRAIN_935": [
+        "Viêm dạ dày và tá tràng",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_158": [
+        "Bệnh lý tăng huyết áp",
+        "Cơn đau thắt ngực",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_397": [
+        "Đụng giập lồng ngực"
+    ],
+    "VAIPE_P_TRAIN_1079": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1073": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_855": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_345": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_366": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_104": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_335": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Sốt không rõ nguyên nhân và khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_180": [
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_120": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_867": [
+        "Bệnh lý tăng huyết áp",
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính"
+    ],
+    "VAIPE_P_TRAIN_626": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1161": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_557": [
+        "Các viêm khớp khác",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1154": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_717": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_805": [
+        "Tăng sản tuyến tiền liệt",
+        "Sỏi thận và niệu quản"
+    ],
+    "VAIPE_P_TRAIN_881": [
+        "Viêm họng cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_933": [
+        "U lành của tuyến giáp",
+        "Viêm họng - thanh quản cấp"
+    ],
+    "VAIPE_P_TRAIN_302": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_862": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_355": [
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_40": [
+        "Dạng khác của bệnh tim thiếu máu cục bộ mạn"
+    ],
+    "VAIPE_P_TRAIN_685": [
+        "Viêm họng cấp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_60": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm phế quản không xác định được là cấp hay mạn tính"
+    ],
+    "VAIPE_P_TRAIN_382": [
+        "Viêm phế quản cấp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_97": [
+        "đụng giập tại đầu gối"
+    ],
+    "VAIPE_P_TRAIN_394": [
+        "đụng giập tại đầu gối"
+    ],
+    "VAIPE_P_TRAIN_919": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_910": [
+        "Viêm kết mạc",
+        "Bệnh tủy và mô quanh chân răng",
+        "Viêm da dị ứng tiếp xúc , nguyên nhân không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_454": [
+        "Viêm nướu và bệnh nha chu",
+        "Tổn thương nông ở cổ tay và bàn tay"
+    ],
+    "VAIPE_P_TRAIN_450": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_822": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Xơ vữa động mạch ngoại biên",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_186": [
+        "Nút ráy tai",
+        "Viêm tai ngoài",
+        "Rối loạn chức năng tiền đình",
+        "Mày đay dị ứng"
+    ],
+    "VAIPE_P_TRAIN_786": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_1068": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_116": [
+        "Viêm phế quản cấp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_149": [
+        "Sai khớp, bong gân và giãn khớp và dây chằng của vòng ngực"
+    ],
+    "VAIPE_P_TRAIN_512": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_658": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_296": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_162": [
+        "Dạng khác của bệnh tim thiếu máu cục bộ mạn"
+    ],
+    "VAIPE_P_TRAIN_666": [
+        "Viêm dạ dày và tá tràng",
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Viêm dạ dày - ruột và đại tràng do nguyên nhân nhiễm trùng và chưa xác định được nguồn gốc nhiễm trùng"
+    ],
+    "VAIPE_P_TRAIN_604": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_270": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_44": [
+        "Đau bụng không xác định và đau bụng khác",
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_144": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_897": [
+        "Sai khớp, bong gân, căng cơ khớp và dây chằng tại tầm cẳng chân và bàn chân",
+        "Viêm mô bào"
+    ],
+    "VAIPE_P_TRAIN_1031": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_1153": [
+        "Viêm họng cấp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_514": [
+        "thoái hóa cột sống",
+        "Viêm mô bào ở vị trí khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Thiếu vitamin B, không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_471": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_753": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_573": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Tăng lipid máu hỗn hợp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_155": [
+        "Bệnh lý tăng huyết áp",
+        "Tăng cholesterol máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_401": [
+        "Sỏi thận và niệu quản"
+    ],
+    "VAIPE_P_TRAIN_461": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_757": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_574": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_711": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_77": [
+        "Bệnh do herpes zoster",
+        "Nhiễm khuẩn khu trú khác của da và mô dưới da"
+    ],
+    "VAIPE_P_TRAIN_760": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_509": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_710": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_905": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Suy thận mãn tính"
+    ],
+    "VAIPE_P_TRAIN_547": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_228": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Cơn thiếu máu não thoáng qua khác và hội chứng liên quan"
+    ],
+    "VAIPE_P_TRAIN_950": [
+        "Viêm phế quản cấp",
+        "thoái hóa đa khớp"
+    ],
+    "VAIPE_P_TRAIN_210": [
+        "Sụn chêm di lệch do tổn thương rách hay chấn thương cũ 1dây chằng chéo trước hoặc sừng trước của sụn chêm trong",
+        "U ác ruột non",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TRAIN_1052": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_628": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_970": [
+        "Viêm phế quản mãn tính không phân loại",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_57": [
+        "Các bệnh phổi tắc nghẽn mãn tính khác"
+    ],
+    "VAIPE_P_TRAIN_1010": [
+        "Viêm tai ngoài"
+    ],
+    "VAIPE_P_TRAIN_738": [
+        "Viêm họng - thanh quản cấp"
+    ],
+    "VAIPE_P_TRAIN_1099": [
+        "Viêm bàng quang"
+    ],
+    "VAIPE_P_TRAIN_676": [
+        "Sâu răng"
+    ],
+    "VAIPE_P_TRAIN_259": [
+        "Táo bón",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_73": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_220": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_51": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_783": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_773": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_243": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_5": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_1139": [
+        "Rối loạn chức năng tiền đình",
+        "Đau đầu"
+    ],
+    "VAIPE_P_TRAIN_95": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_678": [
+        "Viêm gan virus mạn, không xác định"
+    ],
+    "VAIPE_P_TRAIN_687": [
+        "Sai khớp, bong gân và căng cơ của khớp và dây chằng khủyu tay",
+        "Tổn thương nông ở cổ tay và bàn tay"
+    ],
+    "VAIPE_P_TRAIN_271": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_730": [
+        "Viêm họng cấp",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_816": [
+        "Sai khớp, bong gân và căng cơ khớp và dây chằng đầu gối",
+        "Viêm mô bào"
+    ],
+    "VAIPE_P_TRAIN_347": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_323": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1103": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Các viêm khớp trẻ em không đặc hiệu",
+        "Sâu răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1026": [
+        "Bệnh lý tăng huyết áp",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_921": [
+        "Viêm phế quản không xác định được là cấp hay mạn tính",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_898": [
+        "Tổn thương nông ở cổ tay và bàn tay"
+    ],
+    "VAIPE_P_TRAIN_791": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_709": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_564": [
+        "Viêm họng cấp, không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_889": [
+        "Viêm phế quản không xác định được là cấp hay mãn tính",
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_920": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_118": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_12": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_558": [
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1122": [
+        "Sỏi thận và niệu quản",
+        "Viêm bàng quang"
+    ],
+    "VAIPE_P_TRAIN_324": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_975": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_85": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1023": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_183": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_431": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_463": [
+        "Đau bụng và vùng chậu"
+    ],
+    "VAIPE_P_TRAIN_968": [
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_445": [
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_225": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_622": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_714": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_1116": [
+        "Rối loạn chức năng tiền đình",
+        "Loãng xương có kèm gẫy xương bệnh lý"
+    ],
+    "VAIPE_P_TRAIN_174": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_300": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_660": [
+        "Liệt ruột và tắc ruột không có thoát vị",
+        "Viêm dạ dày-ruột và viêm đại tràng khác không nhiễm trùng khác"
+    ],
+    "VAIPE_P_TRAIN_187": [
+        "Viêm tá tràng",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_37": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_515": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_379": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_620": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_969": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_94": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_316": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_873": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_500": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Loạn nhịp tim khác"
+    ],
+    "VAIPE_P_TRAIN_457": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1128": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_221": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Đau trước tim",
+        "Bệnh dây thần kinh liên sườn"
+    ],
+    "VAIPE_P_TRAIN_642": [
+        "Rối loạn chức năng tiền đình",
+        "Suy mòn"
+    ],
+    "VAIPE_P_TRAIN_776": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1050": [
+        "Tổn thương nông tại cổ chân và bàn chân"
+    ],
+    "VAIPE_P_TRAIN_470": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1101": [
+        "Viêm họng cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1118": [
+        "Viêm họng cấp",
+        "Cảm cúm do virus cúm được định danh khác"
+    ],
+    "VAIPE_P_TRAIN_802": [
+        "Gẫy xương tầm cổ tay và bàn tay"
+    ],
+    "VAIPE_P_TRAIN_1004": [
+        "Gãy xương sườn",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_71": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_654": [
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_857": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_807": [
+        "Nhiễm khuẩn khu trú khác của da và mô dưới da"
+    ],
+    "VAIPE_P_TRAIN_1088": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_399": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_844": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Tăng cholesterol máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_413": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_247": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_72": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_744": [
+        "Viêm mũi vận mạch và viêm mũi dị ứng"
+    ],
+    "VAIPE_P_TRAIN_466": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1141": [
+        "Rối loạn chức năng tiền đình",
+        "Glucose niệu"
+    ],
+    "VAIPE_P_TRAIN_1165": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_490": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_294": [
+        "Bệnh lý tăng huyết áp",
+        "Các bệnh nang của gan",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_373": [
+        "Bệnh do herpes zoster"
+    ],
+    "VAIPE_P_TRAIN_963": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_964": [
+        "Viêm họng cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_544": [
+        "Sụn chêm di lệch do tổn thương rách hay chấn thương cũ 1dây chằng chéo trước hoặc sừng trước của sụn chêm trong",
+        "U ác ruột non",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TRAIN_810": [
+        "Đau bụng và vùng chậu",
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1019": [
+        "Viêm họng cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_333": [
+        "Gãy xương vai và xương cánh tay",
+        "Cơn đau thắt ngực",
+        "Viêm mô bào",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1018": [
+        "Nhiễm khuẩn khu trú khác của da và mô dưới da",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_438": [
+        "Gan xơ hóa và xơ gan"
+    ],
+    "VAIPE_P_TRAIN_925": [
+        "Viêm thần kinh tiền đình"
+    ],
+    "VAIPE_P_TRAIN_624": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh gan khác",
+        "Suy thận cấp",
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_712": [
+        "Viêm dạ dày - ruột và đại tràng do nguyên nhân nhiễm trùng và chưa xác định được nguồn gốc nhiễm trùng",
+        "Bệnh trào ngược dạ dày - thực quản"
+    ],
+    "VAIPE_P_TRAIN_204": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_893": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_442": [
+        "Bệnh viêm gan khác"
+    ],
+    "VAIPE_P_TRAIN_280": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_929": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Đau đầu"
+    ],
+    "VAIPE_P_TRAIN_82": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_915": [
+        "Lẹo và chắp",
+        "Viêm kết mạc"
+    ],
+    "VAIPE_P_TRAIN_705": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_1147": [
+        "Viêm da mủ"
+    ],
+    "VAIPE_P_TRAIN_10": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_556": [
+        "U lành của tuyến giáp",
+        "Các viêm khớp khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_28": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_452": [
+        "Bệnh tủy và mô quanh chân răng"
+    ],
+    "VAIPE_P_TRAIN_586": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_536": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_113": [
+        "Đau bụng không xác định và đau bụng khác",
+        "Viêm bàng quang"
+    ],
+    "VAIPE_P_TRAIN_129": [
+        "Viêm bàng quang",
+        "Sỏi thận và niệu quản"
+    ],
+    "VAIPE_P_TRAIN_841": [
+        "Rối loạn giấc ngủ",
+        "Chóng mặt kịch phát lành tính"
+    ],
+    "VAIPE_P_TRAIN_1087": [
+        "Viêm kết mạc",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1114": [
+        "Các viêm khớp khác",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_549": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_272": [
+        "thoái hoá cột sống",
+        "Bệnh rễ thần kinh tuỷ sống"
+    ],
+    "VAIPE_P_TRAIN_83": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_693": [
+        "Viêm phế quản cấp",
+        "Rối loạn điều tiết"
+    ],
+    "VAIPE_P_TRAIN_1102": [
+        "Viêm họng cấp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_839": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_219": [
+        "Viêm phế quản không xác định được là cấp hay mãn tính",
+        "Viêm mũi dị ứng khác",
+        "Bệnh trào ngược dạ dày - thực quản"
+    ],
+    "VAIPE_P_TRAIN_835": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_99": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_1081": [
+        "Viêm phế quản cấp",
+        "Cảm cúm do virus cúm được định danh khác"
+    ],
+    "VAIPE_P_TRAIN_662": [
+        "Nhiễm khuẩn đường tiết niệu, không đặc hiệu vị trí",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_337": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_226": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_287": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Sâu răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_78": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_175": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_974": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_1033": [
+        "Bệnh gan khác",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_771": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_223": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Cơn thiếu máu não thoáng qua khác và hội chứng liên quan"
+    ],
+    "VAIPE_P_TRAIN_1017": [
+        "Viêm xoang cấp",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_1166": [
+        "Viêm họng - thanh quản cấp",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_736": [
+        "Viêm họng - thanh quản cấp"
+    ],
+    "VAIPE_P_TRAIN_812": [
+        "Viêm phế quản không xác định được là cấp hay mãn tính"
+    ],
+    "VAIPE_P_TRAIN_977": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1136": [
+        "Viêm họng cấp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_629": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_90": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_2": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh đĩa đệm đốt sống cổ",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_306": [
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_189": [
+        "Đau trước tim",
+        "Nút ráy tai",
+        "Viêm đa dây thần kinh"
+    ],
+    "VAIPE_P_TRAIN_1043": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Gãy xương bàn chân, trừ cổ chân"
+    ],
+    "VAIPE_P_TRAIN_439": [
+        "Gan xơ hóa và xơ gan",
+        "Sỏi mật"
+    ],
+    "VAIPE_P_TRAIN_446": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Tăng triglycerid máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_1080": [
+        "Tổn thương nông ở cổ tay và bàn tay"
+    ],
+    "VAIPE_P_TRAIN_194": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_993": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_395": [
+        "đụng giập tại đầu gối"
+    ],
+    "VAIPE_P_TRAIN_527": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_590": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1163": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_1005": [
+        "Đau bụng không xác định và đau bụng khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_312": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_248": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_694": [
+        "Các viêm khớp khác",
+        "Viêm mô bào",
+        "Viêm da dị ứng tiếp xúc , nguyên nhân không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_422": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_409": [
+        "Bệnh lý tăng huyết áp",
+        "Nhồi máu cơ tim cũ",
+        "Tăng triglycerid máu đơn thuần"
+    ],
+    "VAIPE_P_TRAIN_357": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Viêm dạ dày và tá tràng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1148": [
+        "Viêm phế quản mãn tính không phân loại",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Đau trước tim"
+    ],
+    "VAIPE_P_TRAIN_716": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_949": [
+        "Viêm phế quản không xác định được là cấp hay mãn tính",
+        "Đau trước tim"
+    ],
+    "VAIPE_P_TRAIN_208": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_811": [
+        "Viêm phế quản không xác định được là cấp hay mãn tính",
+        "Đau trước tim"
+    ],
+    "VAIPE_P_TRAIN_909": [
+        "Viêm kết mạc",
+        "Các viêm khớp khác",
+        "Viêm da dị ứng tiếp xúc , nguyên nhân không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_1065": [
+        "Viêm nướu và bệnh nha chu",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1003": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_268": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_672": [
+        "Viêm da cơ địa",
+        "Viêm đa khớp không đặc hiệu",
+        "Rối loạn chức năng tiền đình",
+        "Mày đay"
+    ],
+    "VAIPE_P_TRAIN_754": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Bệnh tủy và mô quanh chân răng",
+        "Sâu răng"
+    ],
+    "VAIPE_P_TRAIN_134": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_755": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_959": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1134": [
+        "Sai khớp, bong gân và căng cơ của khớp và các dây chằng của đầu"
+    ],
+    "VAIPE_P_TRAIN_378": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Tăng lipid máu hỗn hợp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_847": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_937": [
+        "Kinh nguyệt nhiều, hay xuất hiện và không đều",
+        "Rong kinh lúc dậy thì",
+        "Viêm vú",
+        "Viêm tuyến lệ"
+    ],
+    "VAIPE_P_TRAIN_236": [
+        "Viêm kết mạc",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1113": [
+        "Viêm niệu đạo và hội chứng niệu đạo",
+        "Đau ngực khác"
+    ],
+    "VAIPE_P_TRAIN_825": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_616": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_543": [
+        "Sụn chêm di lệch do tổn thương rách hay chấn thương cũ 1dây chằng chéo trước hoặc sừng trước của sụn chêm trong",
+        "U ác ruột non",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TRAIN_41": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_371": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_163": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_985": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_1041": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Sẩn ngứa khác"
+    ],
+    "VAIPE_P_TRAIN_1076": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_484": [
+        "Viêm tai giữa nung mủ và không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_645": [
+        "U lành của tuyến giáp",
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_159": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_818": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm kết mạc",
+        "Khô giác mạc do thiếu vitamin A"
+    ],
+    "VAIPE_P_TRAIN_414": [
+        "Sỏi mật",
+        "Bệnh trào ngược dạ dày - thực quản"
+    ],
+    "VAIPE_P_TRAIN_136": [
+        "Bệnh lý tăng huyết áp",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_517": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_301": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_76": [
+        "Đau bụng không xác định và đau bụng khác",
+        "Khó tiêu chức năng"
+    ],
+    "VAIPE_P_TRAIN_449": [
+        "Vết thương hở các ngón tay với tổn thương móng"
+    ],
+    "VAIPE_P_TRAIN_209": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1117": [
+        "Viêm họng cấp",
+        "Cảm cúm do virus cúm được định danh khác"
+    ],
+    "VAIPE_P_TRAIN_934": [
+        "Viêm họng - thanh quản cấp"
+    ],
+    "VAIPE_P_TRAIN_510": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TRAIN_435": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1138": [
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_218": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1137": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_372": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_286": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Sâu răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_349": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_532": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1172": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_96": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_908": [
+        "Các viêm khớp khác",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_876": [
+        "Viêm dạ dày - ruột và đại tràng do nguyên nhân nhiễm trùng và chưa xác định được nguồn gốc nhiễm trùng",
+        "Bệnh trào ngược dạ dày - thực quản"
+    ],
+    "VAIPE_P_TRAIN_133": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_918": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_833": [
+        "Sai khớp, bong gân và giãn khớp và dây chằng của vòng ngực"
+    ],
+    "VAIPE_P_TRAIN_305": [
+        "Viêm họng - thanh quản cấp"
+    ],
+    "VAIPE_P_TRAIN_518": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_545": [
+        "Viêm phế quản cấp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TRAIN_381": [
+        "Bệnh lý tăng huyết áp",
+        "Tăng lipid máu hỗn hợp",
+        "Loạn nhịp tim khác"
+    ],
+    "VAIPE_P_TRAIN_793": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_1055": [
+        "Sai khớp, bong gân và giãn khớp và dây chằng cột sống thắt lưng và chậu"
+    ],
+    "VAIPE_P_TRAIN_153": [
+        "Đụng dập lồng ngực"
+    ],
+    "VAIPE_P_TRAIN_644": [
+        "Viêm phế quản cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_715": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_766": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_938": [
+        "Các viêm khác của âm đạo và âm hộ"
+    ],
+    "VAIPE_P_TRAIN_396": [
+        "Đụng giập lồng ngực"
+    ],
+    "VAIPE_P_TRAIN_32": [
+        "Loạn nhịp tim khác",
+        "Đau ngực khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_260": [
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_164": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_848": [
+        "Viêm khớp không đặc hiệu"
+    ],
+    "VAIPE_P_TRAIN_1064": [
+        "Viêm họng cấp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_203": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_143": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_308": [
+        "Rối loạn chức năng tiền đình",
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_50": [
+        "Sai khớp, bong gân, căng cơ khớp và dây chằng tại tầm cẳng chân và bàn chân"
+    ],
+    "VAIPE_P_TRAIN_1095": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Vết bầm tím xuất huyết ngẫu phát"
+    ],
+    "VAIPE_P_TRAIN_416": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_743": [
+        "Viêm mô bào",
+        "Táo bón",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_1032": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_537": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_868": [
+        "Bệnh lý tăng huyết áp",
+        "U lành của tuyến giáp",
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Bệnh tim thiếu máu cục bộ mạn"
+    ],
+    "VAIPE_P_TRAIN_587": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_88": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_635": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TRAIN_240": [
+        "Tăng sản tuyến tiền liệt",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TRAIN_967": [
+        "Viêm xoang mạn tính"
+    ],
+    "VAIPE_P_TRAIN_734": [
+        "Viêm dạ dày và tá tràng",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_939": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TRAIN_542": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TRAIN_11": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_264": [
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_978": [
+        "Viêm xoang cấp"
+    ],
+    "VAIPE_P_TRAIN_313": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_198": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_508": [
+        "Viêm tai giữa nung mủ cấp viêm tai giữa cấp mủ",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_1156": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TRAIN_443": [
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TRAIN_121": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1029": [
+        "Viêm khớp dạng thấp khác",
+        "Rối loạn chức năng tiền đình",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_840": [
+        "Rối loạn giấc ngủ",
+        "Chóng mặt kịch phát lành tính"
+    ],
+    "VAIPE_P_TRAIN_1100": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_875": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_831": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_275": [
+        "Đau lưng",
+        "Đau bụng và vùng chậu"
+    ],
+    "VAIPE_P_TRAIN_871": [
+        "Tổn thương nông ở cổ tay và bàn tay"
+    ],
+    "VAIPE_P_TRAIN_410": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TRAIN_828": [
+        "thoái hóa khớp khác"
+    ],
+    "VAIPE_P_TRAIN_830": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TRAIN_39": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_568": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_330": [
+        "Viêm tai ngoài",
+        "Bệnh suy nhược thần kinh"
+    ],
+    "VAIPE_P_TRAIN_853": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_798": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_1120": [
+        "Tổn thương nông tại cổ chân và bàn chân"
+    ],
+    "VAIPE_P_TRAIN_782": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_250": [
+        "Viêm amyđan cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_813": [
+        "Vết thương hở ở đầu",
+        "Tổn thương nội sọ"
+    ],
+    "VAIPE_P_TRAIN_68": [
+        "Bệnh viêm gan khác",
+        "Bệnh HIV dẫn đến bệnh nhiễm trùng và ký sinh trùng"
+    ],
+    "VAIPE_P_TRAIN_269": [
+        "Viêm gan virus mạn, không xác định"
+    ],
+    "VAIPE_P_TRAIN_369": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TRAIN_448": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_358": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_1011": [
+        "Viêm tai ngoài"
+    ],
+    "VAIPE_P_TRAIN_49": [
+        "Gãy thân xương cánh tay",
+        "Viêm mô bào"
+    ],
+    "VAIPE_P_TRAIN_584": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_698": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_343": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_796": [
+        "Viêm niệu đạo và hội chứng niệu đạo",
+        "Tăng sản tuyến tiền liệt",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_293": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_600": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_298": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_1105": [
+        "Viêm nướu và bệnh nha chu",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TRAIN_733": [
+        "Viêm dạ dày và tá tràng",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TRAIN_233": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TRAIN_1149": [
+        "Bệnh tủy và mô quanh chân răng"
+    ],
+    "VAIPE_P_TRAIN_762": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_943": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TRAIN_1124": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TRAIN_230": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TRAIN_441": [
+        "Gan xơ hóa và xơ gan"
+    ],
+    "VAIPE_P_TRAIN_691": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ]
+}

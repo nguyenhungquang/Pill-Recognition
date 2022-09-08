@@ -1,5 +1,7 @@
 ## Source code for AI4VN 2022 - VAIPE: Medicine Pill Image Recognition Challenge
 
+#### Inference
+
 Put all dataset in folder **`VAIPE`** in this directory <br/>
 Download classifier checkpoint from [https://drive.google.com/file/d/1JgAx8EY8NE_oz5al6fxST9pHa0m3OCi7/view?usp=sharing](https://drive.google.com/file/d/1JgAx8EY8NE_oz5al6fxST9pHa0m3OCi7/view?usp=sharing) and put it in **`src/cls`** folder <br/>
 
@@ -46,3 +48,17 @@ docker run \
     base_image \
     bash run_inference.sh
 ```
+
+#### Training
+This script will first download cropped pill bboxes (we have corrected labels of some bboxes) from (https://drive.google.com/file/d/1OA9QC0ZHmJQHLK_z58RhWiTLBPY7TFNu/view?usp=sharing)[https://drive.google.com/file/d/1OA9QC0ZHmJQHLK_z58RhWiTLBPY7TFNu/view?usp=sharing] in folder **`cls`** <br/>
+To train, run 
+```
+docker run \
+    --name inference_test \
+    --mount type=bind,source="$(pwd)"/VAIPE,target=/app/src/VAIPE \
+    --gpus all \
+    --rm \
+    base_image \
+    bash run_train.sh
+```
+

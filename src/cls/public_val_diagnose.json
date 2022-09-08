@@ -1,0 +1,624 @@
+{
+    "VAIPE_P_TEST_0": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_1": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_2": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_3": [
+        "Tăng sản tuyến tiền liệt",
+        "Nhiễm khuẩn hệ tiết niệu, vị trí không xác định"
+    ],
+    "VAIPE_P_TEST_4": [
+        "Viêm hạch bạch huyết không đặc hiệu khác"
+    ],
+    "VAIPE_P_TEST_5": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TEST_6": [
+        "Viêm nướu và bệnh nha chu"
+    ],
+    "VAIPE_P_TEST_7": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chuyển hoá lipoprotein khác"
+    ],
+    "VAIPE_P_TEST_8": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_9": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng, không phân loại"
+    ],
+    "VAIPE_P_TEST_10": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_11": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_12": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_13": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_14": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_15": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_16": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TEST_17": [
+        "Sai khớp, bong gân và giãn khớp và dây chằng của vòng ngực"
+    ],
+    "VAIPE_P_TEST_18": [
+        "Rối loạn chức năng tiền đình",
+        "Viêm khớp dạng thấp khác"
+    ],
+    "VAIPE_P_TEST_19": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_20": [
+        "Các viêm khớp khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_21": [
+        "Viêm bàng quang"
+    ],
+    "VAIPE_P_TEST_22": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_23": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn",
+        "Tăng lipid máu hỗn hợp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_24": [
+        "Đụng giập lồng ngực"
+    ],
+    "VAIPE_P_TEST_25": [
+        "Vỡ xương mũi"
+    ],
+    "VAIPE_P_TEST_26": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TEST_27": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TEST_28": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính"
+    ],
+    "VAIPE_P_TEST_29": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_30": [
+        "Rối loạn chức năng tiền đình",
+        "Rối loạn thị giác"
+    ],
+    "VAIPE_P_TEST_31": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TEST_32": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_33": [
+        "Đau bụng và vùng chậu",
+        "Bệnh gan khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_34": [
+        "Viêm miệng và tổn thương liên quan"
+    ],
+    "VAIPE_P_TEST_35": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Cơn thiếu máu não thoáng qua khác và hội chứng liên quan"
+    ],
+    "VAIPE_P_TEST_36": [
+        "Vitamin, không xếp loại nơi khác",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_37": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Suy mòn"
+    ],
+    "VAIPE_P_TEST_38": [
+        "Bệnh trào ngược dạ dày - thực quản",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TEST_39": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_40": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_41": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_42": [
+        "Viêm mô tế bào và áp xe của miệng",
+        "Nhiễm độc giáp (cường giáp)",
+        "Cặn lắng [tăng tích tụ] trên răng",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_43": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TEST_44": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_45": [
+        "Nhiễm khuẩn khu trú khác của da và mô dưới da",
+        "Đau lưng"
+    ],
+    "VAIPE_P_TEST_46": [
+        "Gãy xương ở cẳng tay",
+        "Viêm mô bào"
+    ],
+    "VAIPE_P_TEST_47": [
+        "Đau lưng",
+        "Thiếu vitamin B, không đặc hiệu"
+    ],
+    "VAIPE_P_TEST_48": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_49": [
+        "Viêm kết mạc",
+        "Thiếu vitamin B, không đặc hiệu",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_50": [
+        "U lành của tuyến giáp",
+        "Viêm mô bào",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_51": [
+        "Sai khớp, bong gân và giãn khớp và dây chằng cột sống thắt lưng và chậu"
+    ],
+    "VAIPE_P_TEST_52": [
+        "Viêm amyđan cấp"
+    ],
+    "VAIPE_P_TEST_53": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_54": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_55": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_56": [
+        "Viêm amyđan cấp"
+    ],
+    "VAIPE_P_TEST_57": [
+        "Bệnh lý tăng huyết áp",
+        "Bệnh tim thiếu máu cục bộ mạn"
+    ],
+    "VAIPE_P_TEST_58": [
+        "Bệnh lý tăng huyết áp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_59": [
+        "Nhiễm khuẩn khu trú khác của da và mô dưới da",
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TEST_60": [
+        "Viêm niệu đạo và hội chứng niệu đạo",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_61": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_62": [
+        "Bệnh gan khác",
+        "Đau bụng không xác định và đau bụng khác",
+        "Viêm gan virus không xác định"
+    ],
+    "VAIPE_P_TEST_63": [
+        "Gan xơ hóa và xơ gan",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TEST_64": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TEST_65": [
+        "Viêm nướu và bệnh nha chu",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TEST_66": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Đau đầu"
+    ],
+    "VAIPE_P_TEST_67": [
+        "Bệnh do herpes zoster",
+        "Mày đay"
+    ],
+    "VAIPE_P_TEST_68": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_69": [
+        "Viêm niệu đạo và hội chứng niệu đạo"
+    ],
+    "VAIPE_P_TEST_70": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_71": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_72": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_73": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_74": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_75": [
+        "Tổn thương nông tại cổ chân và bàn chân"
+    ],
+    "VAIPE_P_TEST_76": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TEST_77": [
+        "Bệnh lý tăng huyết áp",
+        "Loạn nhịp tim khác",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TEST_78": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_79": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_80": [
+        "Rối loạn chức năng tiền đình",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_81": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_82": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_83": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_84": [
+        "Các viêm khớp khác",
+        "Bệnh đa dây thần kinh do rượu"
+    ],
+    "VAIPE_P_TEST_85": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_86": [
+        "Viêm phế quản cấp",
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TEST_87": [
+        "Đau trước tim",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_88": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_89": [
+        "Rối loạn chức năng tiền đình",
+        "Suy mòn"
+    ],
+    "VAIPE_P_TEST_90": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_91": [
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TEST_92": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_93": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_94": [
+        "Viêm họng cấp",
+        "Viêm mũi dị ứng, không phân loại"
+    ],
+    "VAIPE_P_TEST_95": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_96": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chức năng tiền đình",
+        "Viêm dạ dày khác",
+        "Viêm dạ dày-ruột và viêm đại tràng khác không nhiễm trùng khác"
+    ],
+    "VAIPE_P_TEST_97": [
+        "Viêm dạ dày và tá tràng"
+    ],
+    "VAIPE_P_TEST_98": [
+        "Bệnh của tuyến Bartholin"
+    ],
+    "VAIPE_P_TEST_99": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_100": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_101": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_102": [
+        "Đau ngực khác",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_103": [
+        "Gút (thống phong)"
+    ],
+    "VAIPE_P_TEST_104": [
+        "Bệnh lý tăng huyết áp",
+        "U lành của tuyến giáp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_105": [
+        "Đau ngực khác",
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_106": [
+        "Viêm khớp dạng thấp khác",
+        "Thiếu vitamin A, không đặc hiệu"
+    ],
+    "VAIPE_P_TEST_107": [
+        "Viêm nướu và bệnh nha chu",
+        "Sâu răng"
+    ],
+    "VAIPE_P_TEST_108": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_109": [
+        "Viêm họng cấp",
+        "Cúm, virus không được định danh"
+    ],
+    "VAIPE_P_TEST_110": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_111": [
+        "Thoái hoá hệ thần kinh do rượu"
+    ],
+    "VAIPE_P_TEST_112": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_113": [
+        "Bệnh lý tăng huyết áp",
+        "Cơn đau thắt ngực",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_114": [
+        "Viêm họng - thanh quản cấp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh gan khác"
+    ],
+    "VAIPE_P_TEST_115": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_116": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TEST_117": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_118": [
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TEST_119": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_120": [
+        "Bệnh lý tăng huyết áp",
+        "Đột quị, không xác định do xuất huyết hay nhồi máu (Tai biến mạch máu não)",
+        "Đau trước tim",
+        "Gan xơ hóa và xơ gan",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_121": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_122": [
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_123": [
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác",
+        "Đau bụng không xác định và đau bụng khác"
+    ],
+    "VAIPE_P_TEST_124": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_125": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_126": [
+        "Viêm mũi, viêm mũi họng, viêm họng mãn tính"
+    ],
+    "VAIPE_P_TEST_127": [
+        "Đau ngực khác"
+    ],
+    "VAIPE_P_TEST_128": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_129": [
+        "Viêm da cơ địa"
+    ],
+    "VAIPE_P_TEST_130": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Đau bụng không xác định và đau bụng khác",
+        "Gan xơ hóa và xơ gan"
+    ],
+    "VAIPE_P_TEST_131": [
+        "Viêm kết mạc",
+        "Bệnh tủy và mô quanh chân răng",
+        "Viêm da dị ứng tiếp xúc , nguyên nhân không đặc hiệu"
+    ],
+    "VAIPE_P_TEST_132": [
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_133": [
+        "Viêm lưỡi"
+    ],
+    "VAIPE_P_TEST_134": [
+        "Viêm mũi dị ứng khác"
+    ],
+    "VAIPE_P_TEST_135": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Đau đầu"
+    ],
+    "VAIPE_P_TEST_136": [
+        "Bệnh lý tăng huyết áp",
+        "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TEST_137": [
+        "Bệnh đái tháo đường không phụ thuộc insuline"
+    ],
+    "VAIPE_P_TEST_138": [
+        "Vết thương hở tại cẳng chân"
+    ],
+    "VAIPE_P_TEST_139": [
+        "Viêm phế quản mãn tính không phân loại",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_140": [
+        "Thoái hoá đa khớp"
+    ],
+    "VAIPE_P_TEST_141": [
+        "Bệnh đái tháo đường không phụ thuộc insuline",
+        "Tăng lipid máu hỗn hợp",
+        "Xơ vữa động mạch"
+    ],
+    "VAIPE_P_TEST_142": [
+        "Viêm họng mạn tính"
+    ],
+    "VAIPE_P_TEST_143": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TEST_144": [
+        "Viêm tai ngoài"
+    ],
+    "VAIPE_P_TEST_145": [
+        "Vết thương hở tại cổ chân và bàn chân"
+    ],
+    "VAIPE_P_TEST_146": [
+        "Các bệnh phổi tắc nghẽn mãn tính khác",
+        "Đau ngực khác"
+    ],
+    "VAIPE_P_TEST_147": [
+        "Viêm tá tràng"
+    ],
+    "VAIPE_P_TEST_148": [
+        "Tiêu chảy rối loạn chức năng"
+    ],
+    "VAIPE_P_TEST_149": [
+        "Bệnh đái tháo đường phụ thuộc insuline",
+        "Đau bụng không xác định và đau bụng khác",
+        "Bệnh lý tăng huyết áp"
+    ],
+    "VAIPE_P_TEST_150": [
+        "Viêm phế quản mãn tính không phân loại"
+    ],
+    "VAIPE_P_TEST_151": [
+        "Viêm họng cấp",
+        "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)"
+    ],
+    "VAIPE_P_TEST_152": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_153": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm kết mạc"
+    ],
+    "VAIPE_P_TEST_154": [
+        "Viêm tai giữa nung mủ và không đặc hiệu"
+    ],
+    "VAIPE_P_TEST_155": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm họng cấp"
+    ],
+    "VAIPE_P_TEST_156": [
+        "Viêm họng cấp, không đặc hiệu"
+    ],
+    "VAIPE_P_TEST_157": [
+        "Viêm họng cấp, không đặc hiệu"
+    ],
+    "VAIPE_P_TEST_158": [
+        "Tổn thương nông tại cổ chân và bàn chân"
+    ],
+    "VAIPE_P_TEST_159": [
+        "Viêm mũi, viêm mũi họng, viêm họng mạn tính",
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_160": [
+        "Sai khớp, bong gân, căng cơ khớp và dây chằng tại tầm cẳng chân và bàn chân",
+        "Dụng cụ khác và không rõ đặc điểm kết hợp với tai biến"
+    ],
+    "VAIPE_P_TEST_161": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_162": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Viêm khớp dạng thấp khác"
+    ],
+    "VAIPE_P_TEST_163": [
+        "Viêm phế quản cấp"
+    ],
+    "VAIPE_P_TEST_164": [
+        "Viêm xoang cấp"
+    ],
+    "VAIPE_P_TEST_165": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_166": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chức năng tiền đình"
+    ],
+    "VAIPE_P_TEST_167": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)",
+        "Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác"
+    ],
+    "VAIPE_P_TEST_168": [
+        "Viêm niệu đạo và hội chứng niệu đạo",
+        "Tăng sản tuyến tiền liệt"
+    ],
+    "VAIPE_P_TEST_169": [
+        "Bệnh Tăng huyết áp vô căn (nguyên phát)"
+    ],
+    "VAIPE_P_TEST_170": [
+        "Viêm phế quản cấp",
+        "Rối loạn cảm xúc không ổn định [suy nhược] thực tổn"
+    ],
+    "VAIPE_P_TEST_171": [
+        "Đau ngực khác",
+        "Ban xuất huyết và các tình trạng xuất huyết khác"
+    ]
+}

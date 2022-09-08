@@ -56,7 +56,7 @@ for k, v in img2pres.items():
     img2drug_list[os.path.splitext(k)[0]] = pres2drugs[os.path.splitext(v)[0]]
 img_filter = {img2pres[k]: sum([drug2id[d] for d in v], []) for k, v in img2drug_list.items()}
 
-img_size = 128 # img size 300 works better on validate set but hasnt been tested on test set
+img_size = 128 
 val_transform = A.Compose(
     [
         A.LongestMaxSize(max_size=img_size, interpolation=1),

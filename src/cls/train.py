@@ -30,7 +30,7 @@ from copy import deepcopy
 
 device = torch.device('cuda:1')
 # %%
-imgsize = 128
+imgsize = 128 # img size 300 works better on validate set but hasnt been tested on test set
 hid_dim = 256
 
 train_transform = A.Compose(
@@ -41,9 +41,6 @@ train_transform = A.Compose(
         A.HorizontalFlip(),
         A.VerticalFlip(),
         A.augmentations.geometric.rotate.Rotate(p=0.8),
-        # A.ShiftScaleRotate(shift_limit=0.15, scale_limit=0.15, p=0.8),
-        # A.RandomCrop(height=128, width=128),
-        # A.RGBShift(r_shift_limit=15, g_shift_limit=15, b_shift_limit=15, p=0.5),
         A.RandomBrightnessContrast(p=0.5),
         A.transforms.GaussNoise(p=0.3),
         A.Normalize(mean=(0.485, 0.456, 0.406), std=(0.229, 0.224, 0.225)),
@@ -60,6 +57,9 @@ val_transform = A.Compose(
     ]
 )
 
+with open('public_train_diagnose.json', 'r') as fr:
+    train_diag = json.load(fr)
+
 base = '../VAIPE/public_train/'
 with open(base + 'pill_pres_map.json', 'r') as fr: 
     mapping = json.load(fr)
@@ -69,27 +69,25 @@ def get_desc(content):
     for text in content:
         if 'drug' in text['label']:
             out['drugs'].append([re.sub(r'^\d\) ', '', text['text']), text['mapping']])
-        if 'diag' in text['label']:
-            out['diagnose'] = text['text']
+        # if 'diag' in text['label']:
+        #     out['diagnose'] = text['text']
     return out
 desc = {}
 for f in pres_list:
     if f[-4:] == 'json':
         with open(base + 'prescription/label/' + f, 'r') as fr:
             desc[f] = get_desc(json.load(fr))
+            desc[f]['diagnose'] = train_diag[os.path.splitext(f)[0]]
 
-# %%
+# map each pill to prescription
 pill_pres_dict = {}
 for pres in mapping:
     for pill in pres['pill']:
         assert pill not in pill_pres_dict.keys()
         pill_pres_dict[pill] = pres['pres']
 
-# %%
 pill_desc = {p: {'desc': desc[pill_pres_dict[p]]} for p in pill_pres_dict.keys()}
 
-
-# %%
 img_desc = []
 for i in range(108):
     for f in os.listdir(f'pill_boxes/{i}'):
@@ -99,82 +97,176 @@ for i in range(108):
 config = AutoConfig.from_pretrained('xlm-roberta-base')
 tokenizer = AutoTokenizer.from_pretrained('xlm-roberta-base')
 
-# %%
-# with open('drop.txt', 'r') as fr:
-#     drop = fr.readlines()
-#     drop = [l[:-1] for l in drop]
-
-# img_desc = [i for i in img_desc if i['path'] not in drop]
-
-    
-# %%
-import pickle
-if os.path.isfile('train.pkl'):
-    with open('train.pkl', 'rb') as fr:
-        train = pickle.load(fr)
-
-    with open('val.pkl', 'rb') as fr:
-        val = pickle.load(fr)
-else:
-    num_train_labels = 0
-    num_val_labels = 0
-    while num_train_labels != 108 or num_val_labels < 107:
-        train, val = train_test_split(img_desc, test_size = 0.2)
-        num_train_labels = set()
-        for i in train:
-            num_train_labels.add(i['label'])
-        num_train_labels = len(num_train_labels)
-        num_val_labels = set()
-        for i in val:
-            num_val_labels.add(i['label'])
-        num_val_labels = len(num_val_labels)
-    with open('train.pkl', 'wb') as fw:
-        pickle.dump(train, fw)
-
-    with open('val.pkl', 'wb') as fw:
-        pickle.dump(val, fw)
-
-
-# %%
 with open('drug2id.json', 'r') as fr:
     drug_list = list(json.load(fr).keys())
 
-vaipe_traindata = VAIPE_CLS_Dataset(img_desc,
-                            train_transform)
-vaipe_valdata = VAIPE_CLS_Dataset(val,
-                            val_transform)
-train_loader = DataLoader(vaipe_traindata, batch_size=64, num_workers=4, shuffle=True, pin_memory=True, collate_fn=vaipe_traindata.collate_fn)
-test_loader = DataLoader(vaipe_valdata, batch_size=32, num_workers=4, pin_memory=True, collate_fn=vaipe_valdata.collate_fn)
+train_dataset = TrainDataset(img_desc,
+                            train_transform, tokenizer)
+
+val_det_path = '../yolov5/runs/detect/val_pill/labels/'
+with open('../VAIPE/public_val/pill_pres_map.json', 'r') as fr:
+    val_pres2img = json.load(fr)
+val_img2pres = {}
+for pres in val_pres2img:
+    for img in pres['pill']:
+        val_img2pres[os.path.splitext(img)[0]] = os.path.splitext(pres['pres'])[0]
+
+with open('val_ocr.csv', 'r') as fr:
+    ocr = csv.reader(fr, delimiter=',')
+    ocr = [r for r in ocr]
+ocr = [[c.replace('#', ',') for c in r if c != ''] for r in ocr]
+val_pres2drugs = {}
+for r in ocr:
+    val_pres2drugs[os.path.splitext(r[0])[0]] = r[1:]
+val_img2drug_list = {}
+for k, v in val_img2pres.items():
+    val_img2drug_list[os.path.splitext(k)[0]] = val_pres2drugs[os.path.splitext(v)[0]]
+
+with open('drug2id.json', 'r') as fr:
+    drug2id = json.load(fr)
+val_img_filter = {val_img2pres[k]: sum([drug2id[d] for d in v], []) for k, v in val_img2drug_list.items()}
+
+val_dataset = ValDataset(val_transform, tokenizer, val_det_path, val_img2drug_list)
+train_loader = DataLoader(train_dataset, batch_size=64, num_workers=4, shuffle=True, pin_memory=True, collate_fn=train_dataset.collate_fn)
+val_loader = DataLoader(val_dataset, batch_size=32, num_workers=4, pin_memory=True, collate_fn=train_dataset.collate_fn)
 
 
-# %%
+# validate
+from sklearn.metrics import classification_report, precision_recall_fscore_support
+import warnings
+# warnings.filterwarnings("ignore", category=DeprecationWarning)
+# def warn(*args, **kwargs):
+#     pass
+# warnings.warn = warn
+def IoU(boxA, boxB):
+	# determine the (x, y)-coordinates of the intersection rectangle
+	xA = max(boxA[0], boxB[0])
+	yA = max(boxA[1], boxB[1])
+	xB = min(boxA[2], boxB[2])
+	yB = min(boxA[3], boxB[3])
+	# compute the area of intersection rectangle
+	interArea = max(0, xB - xA + 1) * max(0, yB - yA + 1)
+	# compute the area of both the prediction and ground-truth
+	# rectangles
+	boxAArea = (boxA[2] - boxA[0] + 1) * (boxA[3] - boxA[1] + 1)
+	boxBArea = (boxB[2] - boxB[0] + 1) * (boxB[3] - boxB[1] + 1)
+	# compute the intersection over union by taking the intersection
+	# area and dividing it by the sum of prediction + ground-truth
+	# areas - the interesection area
+	iou = interArea / float(boxAArea + boxBArea - interArea)
+	# return the intersection over union value
+	return iou
 
+def read_gt(file):
+    label_path = '../VAIPE/public_val/pill/label'
+    with open(os.path.join(label_path, file), 'r') as fr:
+        gt = json.load(fr)
+    return [((l['x'], l['y'], l['x'] + l['w'], l['y'] + l['h']), l['label']) for l in gt]
 
-# %%
+def find_label(pred_box, gt_boxes):
+    label = -1
+    max_iou = 0.5
+    for box, l in gt_boxes:
+        iou = IoU(pred_box, box)
+        if iou > max_iou:
+            label = l
+        max_iou = iou
+    return label
+
+def iou_acc(box_files, box_preds):
+    total = 0
+    acc = 0
+    preds = []
+    targets = []
+    for fn, pred in zip(box_files, box_preds):
+        gt_boxes = read_gt(os.path.splitext(fn)[0] + '.json')
+        gt_label = find_label(pred[0], gt_boxes)
+        if gt_label >= 0:
+            targets.append(gt_label)
+            preds.append(pred[1])
+
+    reports = precision_recall_fscore_support(targets, preds, average=None, zero_division=0, labels=range(108))
+    # print(reports, len(reports), len(reports[0]))
+    p, r, f, supp = reports
+    weight = np.array([1] * 107 + [5]) * (supp != 0)
+    p = np.average(p, weights=weight)
+    r = np.average(r, weights=weight)
+    f = 2 * p * r / (p + r)
+    return p, r, f
+    
+@torch.no_grad()
+def get_results(model, loader, thres=0., write=False, verbase=False):
+    img_files = []
+    model.eval()
+    preds = []
+    num_pills = []
+    pres_info = []
+    total_num_drugs = []
+    with torch.no_grad():
+        it = tqdm(loader) if verbase else loader
+        for batch in loader:
+            img_files += batch[0]
+            num_pills += batch[2]
+            img = batch[1].to(device)
+            drug_ids = batch[3].to(device)
+            drug_mask = batch[4].to(device)
+            num_drugs = batch[5]
+            diagnose_ids = batch[6].to(device)
+            diagnose_mask = batch[7].to(device)
+            # print(diagnose_ids.shape, drug_ids.shape)
+            # print(drug_ids.shape, sum(batch[5]))
+            pred, pres_pred, _ = model(img, drug_ids, drug_mask, num_drugs, return_drug=True)
+            pres_info.append(pres_pred)
+            total_num_drugs.append(num_drugs)
+            preds.append(pred.argmax(-1))
+    preds = torch.cat(preds).cpu().numpy()
+    # pred_labels = preds.argmax(-1)
+    pred = defaultdict(lambda: [])
+    filter_results = defaultdict(lambda: [])
+
+    start = 0
+    if write:
+        fw = open('results.csv', 'w')
+        fw.write('image_name,class_id,confidence_score,x_min,y_min,x_max,y_max\n')
+        
+    box_files = []
+    box_preds = []
+    for i, file in enumerate(img_files):
+        with open(val_det_path + os.path.splitext(file)[0] + '.txt', 'r') as fr:
+            text = fr.readlines()
+            text = [l.split() for l in text]
+        length = num_pills[i]
+        assert length == len(text)
+        # pres = img2pres[file[:-3] + 'json'][:-4] + 'png'
+        pres = val_img2pres[file[:-4]]#[:-4] + 'png'
+        drug_filter = val_img_filter[pres]
+        for j in range(length):
+            if float(text[j][1]) > thres:
+                pred[file].append([0, preds[start + j]])
+
+                if int(preds[start + j]) not in drug_filter and int(preds[start + j]) != 107:
+                    filter_results[file].append([0, 107])
+                    text[j][0] = '107'
+                else:
+                    filter_results[file].append([0, preds[start + j]])
+                    text[j][0] = str(preds[start + j])
+
+                box_files.append(file)
+                box_preds.append((list(map(int, text[j][2:])), int(text[j][0])))
+                if write:
+                    line = ','.join(text[j])
+                    fw.write(f'{file},{line}\n')
+        start += length
+    if write:
+        fw.close()
+
+    return box_files, box_preds
 
 effnet = torchvision.models.efficientnet_b3(torchvision.models.EfficientNet_B3_Weights.DEFAULT)
-# effnet = torchvision.models.efficientnet_v2_m('DEFAULT')
 
-# model = Classifier_multi_simple(pretrained, effnet, 6, hid_dim=hid_dim, self_att=drug_att, supcon=supcon, temperature=2).to(device)
-model = ClsModel(config.vocab_size, effnet, 6, hid_dim=hid_dim, self_att=drug_att, supcon=supcon, temperature=2).to(device)
-# model.img_model.load_state_dict(torch.load(f'multimodal_cons/img_model.pth', map_location='cpu'))
-# model.text_model.load_state_dict(torch.load(f'multimodal_cons/text_model.pth', map_location='cpu'))
-# model = nn.Sequential(effnet, nn.Linear(1000, 108)).to(device)
+model = ClsModel(config.vocab_size, effnet, hid_dim=hid_dim).to(device)
 
-optim = torch.optim.Adam(model.parameters(), lr=5e-5)
-# ema = ModelEmaV2(model)
-# ema = EMA(
-#     model,
-#     beta = 0.9999,              # exponential moving average factor
-#     update_after_step = 100,    # only after this number of .update() calls will it start updating
-#     update_every = 10,          # how often to actually update, to save on compute (updates every 10th .update() call)
-# )
-
-# model.load_state_dict(torch.load('classifier.pth'))
-# optim.load_state_dict(torch.load('optim.pth'))
-
-# %%
-print('train')
+optim = torch.optim.Adam(model.parameters(), lr=2e-5)
 
 
 # %%
@@ -186,25 +278,11 @@ scaler = GradScaler(enabled=fp16_run)
 loss_fn = nn.CrossEntropyLoss()
 # loss_fn = focal_loss
 
-best_acc = 0
-best_drug_acc = 0
-log_dir = 'bce_no_focal_loss_no_att'
+best_f1 = 0
+log_dir = 'ckpt'
 os.makedirs(log_dir, exist_ok=True)
-with open(log_dir + '/change.txt', 'a') as fw:
-    fw.write('_multi_task :hid dim 256, img aux loss, pres loss. Drug att on main branch, before concat, all dataset. \n')
-model.load_state_dict(torch.load(f'bce_no_focal_loss_no_att/classifier_multi_task_33.pth', map_location='cpu'))
 
-# accuracy(model, test_loader, device, weight=True, pres_info=pres_info)
-class_freq = []
-for i in range(108):
-    freq = len(os.listdir(f'/mnt/sdc/shared/VAIPE/modified_cls/{i}'))
-    if freq == 0:
-        class_freq.append(1)
-    else:
-        class_freq.append(1 / freq)
-class_freq = torch.tensor(class_freq, device=device) 
-class_freq = class_freq / class_freq.sum()
-for i in range(34, 100):
+for i in range(100):
     model.train()
     j = 0
     subpbar = tqdm(train_loader)
@@ -212,9 +290,7 @@ for i in range(34, 100):
         
         img, labels, drug_ids, drug_mask, num_drugs, desc_ids, desc_mask, drug_labels = to_device(batch, device)
         with autocast(enabled=fp16_run):
-            pred, drug_logits, pres_logits, img_aux_logits = model(img, drug_ids, drug_mask, num_drugs, return_drug=True, return_feat=supcon, pres_info=pres_info)
-        # drug_loss = focal_loss(drug_logits, drug_labels)
-        drug_loss = torch.nn.functional.binary_cross_entropy_with_logits(drug_logits, label2onehot(drug_labels, [1] * drug_labels.size(0)))
+            pred, pres_logits, img_aux_logits = model(img, drug_ids, drug_mask, num_drugs, return_drug=True)
         main_loss = loss_fn(pred, labels)
         pres_labels = label2onehot(drug_labels, num_drugs)
         pres_loss = torch.nn.functional.binary_cross_entropy_with_logits(pres_logits, pres_labels)
@@ -224,8 +300,8 @@ for i in range(34, 100):
         in_logits = img_aux_logits[in_ind]
         in_labels = labels[in_ind]
         img_aux_loss = torch.nn.functional.cross_entropy(in_logits, in_labels)
-        # con_loss = supcon_loss(feats, labels)
-        loss = main_loss + pres_loss + img_aux_loss #+ pres_loss
+
+        loss = main_loss + pres_loss + img_aux_loss
         optim.zero_grad()
         scaler.scale(loss).backward()
         scaler.unscale_(optim)
@@ -233,25 +309,22 @@ for i in range(34, 100):
         # optim.step()
         scaler.step(optim)
         scaler.update()
-        # ema.update()
-        # if j % 1000 == 0:
-        #     acc = accuracy(model, test_loader)
-        message = f'Epoch: {i}, Loss: {loss.item():.3f}, Aux loss: {drug_loss.item():.3f}, Pres loss: {pres_loss.item():.3f}, Acc: {best_acc:.4f}, Drug acc: {best_drug_acc:.4f}'
+
+        message = f'Epoch: {i}, Loss: {loss.item():.3f}, Aux loss: {img_aux_loss.item():.3f}, Pres loss: {pres_loss.item():.3f}'
         subpbar.set_description(message)
     
-    acc, drug_acc, w_acc, f1 = accuracy(model, test_loader, device, weight=True, pres_info=pres_info)
-    # if (i + 1) % 5 == 0 or i > 20:
-    _count(model, _loader)
-    print(acc, drug_acc, w_acc, f1)
-    best_drug_acc = max(drug_acc, best_drug_acc)
-    torch.save(model.state_dict(), f'{log_dir}/classifier_multi_task_{i}.pth')
-    if f1 > best_acc:
-        
-        # torch.save(optim.state_dict(), f'{log_dir}/optim.pth')
-        best_acc = f1
+    # validate
+    box_files, box_preds = get_results(model, val_loader, thres=0.5, write=False)
+    _, _, f = iou_acc(box_files, box_preds)
+    if f > best_f1:
+        best_f1 = f
+        best_epoch = i
+
+    torch.save(model.state_dict(), f'{log_dir}/classifier_{i}.pth')
+    msg = f'Epoch: {i}, Best F1: {best_f1}, Cur F1: {f}, Best epoch: {best_epoch}\n'
+    print(msg)
     with open(f'{log_dir}/log.txt', 'a') as f:
-        f.write(f'Epoch: {i}, Acc: {acc:.4f}, Drug acc: {drug_acc:.4f}, Best acc: {best_acc:.4f}, Best drug acc: {best_drug_acc:.4f}\n')
-    # if (i + 1) % 10 == 0 or i == 0:
+        f.write(msg)
     
     
 

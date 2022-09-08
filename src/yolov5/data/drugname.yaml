@@ -1,0 +1,12 @@
+path: data/drugname  # dataset root dir
+train: images/train  # train images (relative to 'path') 118287 images
+val: images/train  # val images (relative to 'path') 5000 images
+test: images/train  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+nc: 1  # number of classes
+names: ['drug']  # class names
+
+
+# Download script/URL (optional)
+download: |
