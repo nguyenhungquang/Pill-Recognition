@@ -1,5 +1,5 @@
 ## Source code for AI4VN 2022 - VAIPE: Medicine Pill Image Recognition Challenge
-Updated (19/9/22): Add code used to inference private test. Since private test and public test have different format, this repo can no longer run on public test dataset.
+Updated (19/9/22): Add code used to inference private test. Since private test and public test have different format, this repo can no longer run on public test dataset. New model was trained on public val dataset also.
 
 #### Inference (private test)
 
@@ -41,7 +41,7 @@ To inference, run
 ```
 docker run \
     --name inference_private_test \
-    --mount type=bind,source="$(pwd)"/VAIPE,target=/app/src/VAIPE \
+    --mount type=bind,source="$(pwd)"/RELEASE_private_test,target=/app/src/RELEASE_private_test \
     --gpus all \
     base_image \
     bash run_inference.sh
