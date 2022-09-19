@@ -35,6 +35,7 @@ class TextEncoder(nn.Module):
         x, (h, c) = self.lstm(x)
         x, _ = nn.utils.rnn.pad_packed_sequence(
             x, batch_first=True)
-
-        return x.sum(dim=1)
+        h = torch.cat([h[-1, :, :], h[-2, :, :]], dim = 1)
+        return h
+        # return x.sum(dim=1)
 

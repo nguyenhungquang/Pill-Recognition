@@ -17,15 +17,15 @@ import torchvision
 
 from transformers import AutoConfig, AutoTokenizer
 
-from dataset import TestDataset
+from dataset import TestDataset, PrivateTestDataset
 from model import ClsModel
 
 os.environ['TOKENIZERS_PARALLELISM'] = 'false'
-device = torch.device('cuda:0')
+device = torch.device('cuda:1')
 
 hid_dim = 256
 
-data_path = '../VAIPE/public_test/pill/image'
+data_path = '../RELEASE_private_test/pill/image'
 det_path = '../ensemble_det/labels/'
 with open(det_path + os.path.splitext(os.listdir(data_path)[1])[0] + '.txt', 'r') as fr:
     text = fr.readlines()
@@ -35,28 +35,28 @@ with open('id2drug.json', 'r') as fr:
 with open('drug2id.json', 'r') as fr:
     drug2id = json.load(fr)
 
-with open('../VAIPE/public_test/pill_pres_map.json', 'r') as fr:
+with open('../RELEASE_private_test/pill_pres_map.json', 'r') as fr:
     pres2img = json.load(fr)
 
 img2pres = {}
-for pres in pres2img:
-    for img in pres['pill']:
-        img2pres[img] = pres['pres']
+for pres, pill in pres2img.items():
+    for img in pill:
+        img2pres[img] = pres
 
 
-with open('../drug_name.csv', 'r') as fr:
-    ocr = csv.reader(fr, delimiter=',')
+with open('../drug_name_v2.csv', 'r') as fr:
+    ocr = csv.reader(fr, delimiter='|')
     ocr = [r for r in ocr]
-ocr = [[c.replace('#', ',') for c in r if c != ''] for r in ocr]
+ocr = [[c for c in r if c != ''] for r in ocr]
 pres2drugs = {}
 for r in ocr:
     pres2drugs[os.path.splitext(r[0])[0]] = r[1:]
 img2drug_list = {}
 for k, v in img2pres.items():
-    img2drug_list[os.path.splitext(k)[0]] = pres2drugs[os.path.splitext(v)[0]]
+    img2drug_list[k] = pres2drugs[os.path.splitext(v)[0]]
 img_filter = {img2pres[k]: sum([drug2id[d] for d in v], []) for k, v in img2drug_list.items()}
 
-img_size = 128 
+img_size = 300
 val_transform = A.Compose(
     [
         A.LongestMaxSize(max_size=img_size, interpolation=1),
@@ -66,15 +66,16 @@ val_transform = A.Compose(
     ]
 )
 
-config = AutoConfig.from_pretrained('xlm-roberta-base')
-tokenizer = AutoTokenizer.from_pretrained('xlm-roberta-base')
+tokenizer = AutoTokenizer.from_pretrained('sentence-transformers/stsb-xlm-r-multilingual')
+# sroberta = AutoModel.from_pretrained('sentence-transformers/stsb-xlm-r-multilingual')
+config = AutoConfig.from_pretrained('sentence-transformers/stsb-xlm-r-multilingual')
 
-dataset = TestDataset(val_transform, tokenizer, det_path, img2drug_list)
+dataset = PrivateTestDataset(val_transform, tokenizer, det_path, img2drug_list)
 loader = DataLoader(dataset, batch_size = 32, num_workers=4, collate_fn = dataset.collate_fn, pin_memory=True)
 
 effnet = torchvision.models.efficientnet_b3()
 model = ClsModel(config.vocab_size, effnet, hid_dim).to(device)
-model.load_state_dict(torch.load('classifier_36.pth'))
+model.load_state_dict(torch.load('classifier_29.pth'))
 
 
 @torch.no_grad()
@@ -115,7 +116,7 @@ def evaluate(model, loader, thres=0., write=False):
             text = [l.split() for l in text]
         length = num_pills[i]
         assert length == len(text)
-        pres = img2pres[file[:-4]]
+        pres = img2pres[file]
         drug_filter = img_filter[pres]
         for j in range(length):
             if float(text[j][1]) > thres:

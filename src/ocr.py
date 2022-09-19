@@ -23,10 +23,10 @@ config['predictor']['beamsearch']=False
 detector = Predictor(config)
 
 # %%
-det_path = 'yolov5/runs/detect/drug_name/labels/'
+det_path = 'yolov5/runs/detect/drug_name_test/labels/'
 
 # %%
-prescription_dir = 'VAIPE/public_test/prescription/image'
+prescription_dir = 'RELEASE_private_test/prescription/image'
 preslist = [i for i in os.listdir(prescription_dir) if i[-3:] == 'png']
 preslist.sort(key=lambda x:int(x[:-4].split('_')[-1]))
 
@@ -79,7 +79,7 @@ def get_drug_list(filename, threshold=50):
 drug_dict = {pres: get_drug_list(pres) for pres in preslist}
 
 # %%
-with open('drug_name.csv', 'w') as fr:
+with open('drug_name_v2.csv', 'w') as fr:
     for k, v in drug_dict.items():
 
         drugs = ','.join([d.replace(',', '#') for d in v])

@@ -24,7 +24,7 @@ class ClsModel(nn.Module):
                                     )
         self.pres_classifier = nn.Linear(hid_dim, 107)
         self.img_aux_ln = nn.Linear(hid_dim, 107)
-        self.classifier = nn.Sequential(nn.Dropout(dropout),
+        self.classifier = nn.Sequential(
                                             nn.Linear(hid_dim * 2, hid_dim * 2),
                                             nn.Tanh(),
                                             nn.Dropout(dropout),

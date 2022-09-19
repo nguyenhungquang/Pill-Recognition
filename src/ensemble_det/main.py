@@ -11,14 +11,14 @@ import boxes
 from ensemble_boxes import weighted_boxes_fusion
 
 
-image_folder = "VAIPE/public_test/pill/image"
-boxes1_folder = "yolov5/runs/detect/v5s_832_tta/labels"
-boxes2_folder = "yolov5/runs/detect/v5x6_1280_tta/labels"
+image_folder = "RELEASE_private_test/pill/image"
+boxes1_folder = "yolov5/runs/detect/v5s_832_tta_test/labels"
+boxes2_folder = "yolov5/runs/detect/v5x6_1280_tta_test/labels"
 
 
 
 if __name__ == '__main__':
-    os.makedirs('ensemble_det/labels', exist_ok=True)
+    os.makedirs('ensemble_det/labels_rm_box', exist_ok=True)
     for image_file in tqdm(os.listdir(image_folder)):
         image_path = os.path.join(image_folder, image_file)
         image = cv2.imread(image_path)
@@ -26,8 +26,14 @@ if __name__ == '__main__':
         img = image.copy()
 
         # load boxes to fusion
-        data1 = np.loadtxt(f"{boxes1_folder}/{name}.txt")
-        data2 = np.loadtxt(f"{boxes2_folder}/{name}.txt")
+        try:
+            data1 = np.loadtxt(f"{boxes1_folder}/{name}.txt")
+        except:
+            data1 = np.array([])
+        try:
+            data2 = np.loadtxt(f"{boxes2_folder}/{name}.txt")
+        except:
+            data2 = np.array([])
         # data3 = np.loadtxt(f"{boxes3_folder}/{name}.txt")
 
         if data2.ndim == 1:
@@ -101,6 +107,7 @@ if __name__ == '__main__':
             conf_type='avg'
         )
         fnboxes = boxes.scale_box(image, fboxes)
+        # print(fnboxes)
         # save
         s = ""
         for i in range(len(fnboxes)): # each box in image
@@ -108,5 +115,6 @@ if __name__ == '__main__':
             conf = scores[i]
             b = fnboxes[i]
             line = (c, conf, *b)
+            # print(('%g ' * len(line)).rstrip() % line + '\n')
             with open(f"ensemble_det/labels/{name}.txt", 'a') as f:
                 f.write(('%g ' * len(line)).rstrip() % line + '\n')

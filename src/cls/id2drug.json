@@ -72,7 +72,7 @@
         "CEFIXIM 200 200mg"
     ],
     "18": [
-        "Bố GAN P/H 125mg+100mg+25mg"
+        "BỔ GAN P/H 125mg+100mg+25mg"
     ],
     "19": [
         "DROXICEF 500MG 0,5g",
@@ -179,7 +179,7 @@
         "DƯỠNG TÂM AN THẦN"
     ],
     "45": [
-        "Enalapril thydrochlorothiazide (Ebitac 12.5) 10mg + 12,5mg",
+        "Enalapril+hydrochlorothiazide (Ebitac 12.5) 10mg + 12,5mg",
         "EBITAC 12.5 10mg + 12,5mg"
     ],
     "46": [
@@ -256,7 +256,7 @@
         "Atorvastatin (Atoris 20mg) 20mg"
     ],
     "65": [
-        "BỐ HUYẾT ÍCH NÃO BDF 40mg+300mg"
+        "BỔ HUYẾT ÍCH NÃO BDF 40mg+300mg"
     ],
     "66": [
         "KAGASDINE 20mg"
@@ -279,8 +279,7 @@
         "VACO LORATADINE 10mg"
     ],
     "72": [
-        "SAVI LOSARTAN 50 50mg",
-        "SAVILOSARTAN 50 50mg"
+        "SAVI LOSARTAN 50 50mg"
     ],
     "73": [
         "MENISON 16MG 16mg",
@@ -309,7 +308,7 @@
         "Loxoprofen (Mezafen) 60mg"
     ],
     "79": [
-        "Telmisartan % hydroclorothiazid (Hangitor plus) 40mg+12,5mg",
+        "Telmisartan+hydroclorothiazid (Hangitor plus) 40mg+12,5mg",
         "HANGITOR PLUS 40mg+12,5mg"
     ],
     "80": [
